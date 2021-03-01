@@ -1,8 +1,7 @@
 title: Dr. Jonathan Barichivich # your name (or website title) here
 logo: "/images/picture_small.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br> Global climate and ecosystem science <br>
+  <br> Crossroads of global climate and ecosystem science <br>
   <a href="https://scholar.google.cl/citations?hl=en&user=134gvMcAAAAJ/">See GoogleScholar Profile</a> 
   
 theme: jekyll-theme-minimal
