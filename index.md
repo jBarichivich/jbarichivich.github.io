@@ -9,7 +9,7 @@
 
 ---
 [Terrestrial ecosystems](/pdf/sample_presentation.pdf)
-<img src="images/DSC_0886.jpg?raw=true"/>
+<img src="images/DSC_0885.jpg?raw=true"/>
 
 ---
 [Teaching and capacity building](http://example.com/)
