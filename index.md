@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Global climate](/sample_page)
-<img src="images/DSC_9189.jpg?raw=true"/>
+<img src="images/DSC_9189.JPG?raw=true"/>
 
 ---
 [Terrestrial ecosystems](/pdf/sample_presentation.pdf)
