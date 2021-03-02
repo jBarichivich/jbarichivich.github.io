@@ -8,7 +8,7 @@
 <img src="images/DSC_0885.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Terrestrial ecosystems](/pdf/sample_presentation.pdf)
 <img src="images/DSC_0886.jpg?raw=true"/>
 
 ---
