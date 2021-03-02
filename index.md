@@ -13,7 +13,7 @@
 
 ---
 [Teaching and capacity building](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DSC_6316.JPG?raw=true"/>
 
 ---
 
