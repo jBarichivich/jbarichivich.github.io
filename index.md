@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Global climate](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DSC_0885.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DSC_0886.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
