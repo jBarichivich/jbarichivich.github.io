@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Research areas
 
 [Global climate](/sample_page)
 <img src="images/IMG_5687.JPG?raw=true"/>
