@@ -1,4 +1,4 @@
-## Research portfolio (in develepment)
+## Research portfolio (in development)
 
 ---
 
