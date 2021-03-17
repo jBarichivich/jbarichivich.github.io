@@ -8,8 +8,8 @@
 <img src="images/IMG_5687.JPG?raw=true"/>
 
 ---
-[Terrestrial ecosystems](/pdf/sample_presentation.pdf)
-<img src="images/DSC_0885.jpg?raw=true"/>
+[Terrestrial ecosystems - Research supersite](/pdf/sample_presentation.pdf)
+<img src="images/fig03_pheno_v3_clean.png?raw=true"/>
 
 ---
 [Teaching and capacity building](http://example.com/)
