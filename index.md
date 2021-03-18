@@ -5,7 +5,7 @@
 ### Research areas
 
 [Global climate](/sample_page)
-<img src="images/IMG_5687.JPG?raw=true"/>
+<img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
 ---
 [Terrestrial ecosystems - Research supersite](/pdf/sample_presentation.pdf)
