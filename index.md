@@ -1,8 +1,11 @@
 ## Research portfolio (in development)
 
 ## Bio
-
 I integrate observations and models to understand the interactions between terrestrial ecosystems and the climate system from days to centuries.
+
+I hold a MSc in Climate Change and PhD in Environmental Sciences from the world renowned Climatic Research Unit (CRU) of the University of East Anglia, UK. The main focus of my research is on the interactions between climate, society and terrestrial ecosystems through the global and regional water and carbon cycles. Currently, I am a laureate of the Make Our Planet Great Again (MOPGA) program created by the French Government where I seek to improve the terrestrial component of a climate model at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE, Paris). 
+
+
 
 ### Research areas
 
