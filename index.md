@@ -1,5 +1,7 @@
 ## Research portfolio (in development)
 
+### BIO
+I integrate observations and models to understand the interactions between terrestrial ecosystems and the climate system from days to centuries.
 ---
 
 ### Research areas
