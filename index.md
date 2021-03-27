@@ -3,6 +3,7 @@
 ## Bio
 I integrate observations and models to understand the interactions between terrestrial ecosystems and the climate system from days to centuries.
 ---
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
 ### Research areas
 
