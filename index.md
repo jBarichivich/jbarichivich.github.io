@@ -36,7 +36,7 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 [Digital media](http://example.com/)
 <img src="images/IMG_6316.JPG?raw=true"/>
 
-### Social change
+### Social betterment
 
 ---
 <!-- Remove above link if you don't want to attibute -->
