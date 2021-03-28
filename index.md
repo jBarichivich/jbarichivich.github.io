@@ -8,6 +8,7 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 ### Media coverage
 - Featured in nature documentary [Historias de Arboles: el grandioso alerce](https://www.youtube.com/watch?v=aPBMgQdVciU), March 2020, Canal 13C, Chile.
 - Featured in nature documentary [Tráfico Ilícito: alerce](https://www.youtube.com/watch?v=L7H9bRavtUI), April 2020, La Red TV Chanel, Chile.
+-[BBC News Mundo[(https://www.bbc.com/mundo/noticias-45602224), interview about [floods in Amazonia](https://advances.sciencemag.org/content/4/9/eaat8785). 
 
 ### Research areas
 
