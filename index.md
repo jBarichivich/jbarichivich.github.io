@@ -1,7 +1,7 @@
 ## Research portfolio (in development)
 
 ## Bio
-**I integrate measurements and models to reconstruct and predict the interactions between terrestrial ecosystems and the climate system from days to centuries.** To achieve this, I work across components of the Earth System and collaborate with colleagues from around the world, speaking their languages. My publications and their impact can be found in [GoogleScholar](https://scholar.google.com/citations?user=134gvMcAAAAJ&hl=en).
+**I integrate measurements and models to reconstruct and predict the interactions between terrestrial ecosystems and the climate system from days to centuries.** To achieve this, I work across components of the Earth System and collaborate with colleagues from around the world speaking several languages. My publications and their impact can be found in [GoogleScholar](https://scholar.google.com/citations?user=134gvMcAAAAJ&hl=en).
 
 I hold a MSc in Climate Change and PhD in Environmental Sciences from the world renowned [Climatic Research Unit (CRU)](https://lr1.uea.ac.uk/cru/staff-and-students) of the University of East Anglia, UK. Currently, I am a laureate of the [Make Our Planet Great Again (MOPGA)](https://www.campusfrance.org/fr/system/files/medias/documents/2018-07/Laur%C3%A9ats%20Post%20doctorat%20MOPGA%20Final.pdf) program created by the French Government. In the framework of this program I seek to improve the [terrestrial component](https://bg.copernicus.org/preprints/bg-2020-446/) of a climate model at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE, Paris). 
 
