@@ -5,7 +5,8 @@
 
 I hold a MSc in Climate Change and PhD in Environmental Sciences from the world renowned [Climatic Research Unit (CRU)](https://lr1.uea.ac.uk/cru/staff-and-students) of the University of East Anglia, UK. Currently, I am a laureate of the [Make Our Planet Great Again (MOPGA)](https://www.campusfrance.org/fr/system/files/medias/documents/2018-07/Laur%C3%A9ats%20Post%20doctorat%20MOPGA%20Final.pdf) program created by the French Government. In the framework of this program I seek to improve the [terrestrial component](https://bg.copernicus.org/preprints/bg-2020-446/) of a climate model at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE, Paris). 
 
-
+### Media coverage
+- Nature documentary "[Historias de Arboles: el grandioso alerce]"(https://www.youtube.com/watch?v=aPBMgQdVciU) in Canal 13C
 
 ### Research areas
 
