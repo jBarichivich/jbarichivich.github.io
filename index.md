@@ -8,8 +8,8 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 ### My work in the media
 - Feature in nature documentary [Historias de Arboles: el grandioso alerce](https://www.youtube.com/watch?v=aPBMgQdVciU), March 2020, Canal 13C, Chile.
 - Feature in nature documentary [Tráfico Ilícito: alerce](https://www.youtube.com/watch?v=L7H9bRavtUI), April 2020, La Red TV Chanel, Chile.
-- [Mongabay](https://news.mongabay.com/2020/05/flooding-devastates-ecuadors-indigenous-communities-in-the-amazon/), May 2020.
-- [Mongabay](https://news.mongabay.com/2018/12/extreme-floods-on-the-rise-in-the-amazon-study/), December 2018.
+- [Mongabay](https://news.mongabay.com/2020/05/flooding-devastates-ecuadors-indigenous-communities-in-the-amazon/), Extreme flooding in Ecuador, May 2020.
+- [Mongabay](https://news.mongabay.com/2018/12/extreme-floods-on-the-rise-in-the-amazon-study/), Flooding changes in Amazonia, December 2018.
 - [BBC News Mundo](https://www.bbc.com/mundo/noticias-45602224), interview about [floods in Amazonia](https://advances.sciencemag.org/content/4/9/eaat8785). 
 - [El Pais Newspaper](https://elpais.com/elpais/2018/09/19/ciencia/1537369024_964822.html) (Spain), interview about [floods in Amazonia](https://advances.sciencemag.org/content/4/9/eaat8785).
 - [Reuters](https://www.reuters.com/article/us-brazil-environment-floods/catastrophic-floods-rising-on-amazon-river-say-scientists-idUSKCN1LZ2IV), interview about [floods in Amazonia](https://advances.sciencemag.org/content/4/9/eaat8785).
