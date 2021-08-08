@@ -37,6 +37,8 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 **Drought and climate extremes**
 <img src="images/drought_bams2021.png?raw=true"/>
 
+> Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
+
 ---
 **Monitoring and modelling of terrestrial ecosystems**
 
