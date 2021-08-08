@@ -41,6 +41,7 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 - Ethnographic documentary [Los Vecinos del Abuelo](https://www.youtube.com/watch?v=fkastaWvPMQ). A portrait of the cultural heritage and current struggles of the inhabitants of the Alerce forests near the Alerce Costero National Park in southern Chile.
 
 ### Social betterment
+- Creation of the neighbours council [Junta de Vecinos del Alerce Costero](https://www.youtube.com/watch?v=LPwrAk25nPI) (2016) in the mountain community where I grew up.
 
 - YouTube chanel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). A space for scientific outreach, rescue of family heritage on nature conservation and activism to defend our land from a family of greedy lawyers.
 
