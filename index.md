@@ -15,7 +15,14 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 - [Reuters](https://www.reuters.com/article/us-brazil-environment-floods/catastrophic-floods-rising-on-amazon-river-say-scientists-idUSKCN1LZ2IV), interview about [floods in Amazonia](https://advances.sciencemag.org/content/4/9/eaat8785).
 - Feature in nature documentary [Expedição Água: rios voadores (Amazônia)](http://globoplay.globo.com/v/4944003/), Globo TV, Brazil. 
 - NewScientist. Feature interview [The Great Greening](https://www.newscientist.com/article/mg22029380-900-the-great-greening-the-coming-of-our-new-lush-earth/) by O. Heffernan.
- 
+
+### Awards & recent achievements
+
+2021 Scientific proposal reached the last stage of the [ERCstg 2021](https://erc.europa.eu/funding/starting-grants) and is under evaluation.
+2020 Scientific proposal reached the last stage of the [ERCstg 2020](https://erc.europa.eu/funding/starting-grants) but not selected.
+2019--2021 Laureate of the French presidential program of scientific research [Make Our Planet Great
+Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
+
 ### Research areas
 
 [Global climate](/sample_page)
