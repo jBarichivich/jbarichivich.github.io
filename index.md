@@ -38,7 +38,7 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 
 **Digital media**
 
-- Ethnographic documentary [Los Vecinos del Abuelo](https://www.youtube.com/watch?v=fkastaWvPMQ)
+- Ethnographic documentary [Los Vecinos del Abuelo](https://www.youtube.com/watch?v=fkastaWvPMQ). Los habitantes históricos del ahora Parque Nacional Alerce Costero, relatan aspectos de sus vidas ligadas al bosque, las transformaciones territoriales y los conflictos de la empresa  Raulintal con la comunidad. Un cortometraje etnográfico que aborda por un lado las historias y saberes de los alerceros, así como también la problemática dicotomía entre naturaleza y cultura presentes en la implementación de un parque nacional.
 
 ### Social betterment
 
