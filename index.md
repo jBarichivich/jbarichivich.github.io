@@ -29,12 +29,12 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 ### Research areas
 
-[Global climate](/sample_page)
+[Global climate and extremes](/sample_page)
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
 > The acceleration of the global Walker circulation and intensified flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
 
-**Drought and climate extremes**
+**Reconstructing and monitoring global drought**
 <img src="images/drought_bams2021.png?raw=true"/>
 
 > Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
