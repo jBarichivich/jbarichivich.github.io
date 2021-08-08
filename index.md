@@ -22,7 +22,7 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
 ---
-[Terrestrial ecosystems - Research supersite](/pdf/sample_presentation.pdf)
+[Terrestrial ecosystems and monitoring](/pdf/sample_presentation.pdf)
 <img src="images/fig03_pheno_v3_clean.png?raw=true"/>
 
 ---
@@ -34,6 +34,7 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 
 [Books](http://example.com/)
 <img src="images/IMG_6316.JPG?raw=true"/>
+Urbina, X. and J. Barichivich (Eds), 2021. La sobrevivencia del alerce y su cultura: la historia de los alerzales de la Cordillera Pelada, Chile. Ediciones Universitarias de Valparaíso (in press).
 
 [Digital media](http://example.com/)
 <img src="images/IMG_6316.JPG?raw=true"/>
