@@ -36,9 +36,9 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 
 Urbina, X. and J. Barichivich (Eds), 2021. La sobrevivencia del alerce y su cultura: la historia de los alerzales de la Cordillera Pelada, Chile. Ediciones Universitarias de Valparaíso (in press).
 
-[Digital media](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw)
+**Digital media**
 
-YouTube chanel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw)
+YouTube chanel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). A space for scientific outreach and record of our family fight for social justice. 
 
 ### Social betterment
 
