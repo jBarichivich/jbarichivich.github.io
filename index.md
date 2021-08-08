@@ -35,14 +35,15 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 > The acceleration of the global Walker circulation and intensified flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
 
 **Reconstructing and monitoring global drought**
+
+I am currently Associate Fellow in CRU, where I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
+
 <img src="images/drought_bams2021.png?raw=true"/>
 
 > Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
 
 ---
 **Monitoring and modelling terrestrial ecosystems**
-
-I am currently Associate Fellow in CRU, where I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
 
 <img src="images/proposal_diagram_v2.png?raw=true"/>
 
