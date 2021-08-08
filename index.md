@@ -42,6 +42,8 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 ---
 **Monitoring and modelling terrestrial ecosystems**
 
+I am currently Associate Fellow in CRU, where I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
+
 <img src="images/proposal_diagram_v2.png?raw=true"/>
 
 >Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of forest growth and physiology to global change.
