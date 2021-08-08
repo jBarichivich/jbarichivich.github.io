@@ -57,7 +57,7 @@ My effort on ecosystem monitoring has been dedicated to the establishment of a [
 
 > Biological clocks of a coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
 
-**Rural-urban gradients as a climate change experiments**
+**Cities as global change experiments**
 
 Altered biogeochemical cycles, with higher CO2 concentrations and significantly stronger warming than in their rural surroundings make cities a natural climate change experiment. Current conditions in metropolitan regions simulate some of those that natural ecosystems will experience with similar intensity in the near future, notably warming. I am expliting this feature of cities as a convenient alternative to expensive warming experiments. I am testing if urban-rural gradients in mega-cities can be used to study short-term ecosystem responses (e.g., growth extremes) and long-term adaptations (e.g., water use efficiency, stomatal responses) to climate change factors, in particular to warming.
 
