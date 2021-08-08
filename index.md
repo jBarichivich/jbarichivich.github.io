@@ -36,6 +36,8 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 ---
 [Teaching and capacity building](http://example.com/)
+- Annual [Summer school on Vegetation Dynamics](https://www.bosqueciencialab.org/vegetation-dynamics), Universidad de Chile, Frutillar, Chile. Co-organiser and instructor.
+
 <img src="images/IMG_6316.JPG?raw=true"/>
 
 ---
