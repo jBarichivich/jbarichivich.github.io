@@ -46,7 +46,7 @@ My effort on ecosystem monitoring has been dedicated to the establishment of a [
 > Biological clocks of a coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
 
 ---
-**Teaching and capacity building**
+##Teaching and capacity building
 
 I have dedicated a great deal of time to lead efforts for capacity building in order to attract talented students and start a modelling community in South America. Together with [Prof. Alvaro Gutiérrez](http://www.bosqueciencia.org/) (University of Chile) we have been successful in obtaining grants for networking with the ETH ([Harald Bugmann](https://usys.ethz.ch/en/people/profile.harald-bugmann.html)) and the LSCE ([Philippe Peylin](https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=philippe.peylin)). As a result we have created an annual [Summer School on Vegetation Dynamics](https://www.bosqueciencialab.org/vegetation-dynamics) to start exposing students to modelling from an early career stage (see picture below). 
 
