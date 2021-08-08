@@ -72,7 +72,7 @@ I have mentored several undergraduate students at the Universidad Austral de Chi
 
 - YouTube channel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). *A space for scientific outreach, sharing family heritage on nature conservation and activism to defend our land from a family of [greedy lawyers](https://www.raulintal.cl/).*
 
-- Director of [Corporación Alerce](http://www.corporacionalerce.cl/jonathan-barichivich/), an NGO that promotes the conservation of the remnants of native forests of the long-lived conifer *Fitzroya cupressoides* in the temperate rainforests of Chile.
+- Director of [Corporación Alerce](http://www.corporacionalerce.cl/jonathan-barichivich/), an NGO that promotes the scientific knowledge and conservation of the remnants of native forests of the long-lived conifer *Fitzroya cupressoides* in the temperate rainforests of Chile.
 
 ---
 <!-- Remove above link if you don't want to attibute -->
