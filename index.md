@@ -33,7 +33,7 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
 ---
-**Terrestrial ecosystems and monitoring**
+**Monitoring and modelling terrestrial ecosystems**
 
 I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. This allows me to pose and answer scientific questions at the forefront of the field. 
 
