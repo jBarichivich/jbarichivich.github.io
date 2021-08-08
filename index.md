@@ -59,6 +59,10 @@ My effort on ecosystem monitoring has been dedicated to the establishment of a [
 
 **Rural-urban gradients as a climate change experiments**
 
+<img src="images/PARIS_UHI_avg.png?raw=true"/>
+
+>Illustration of the Fontainebleau-Paris rural-urban gradient as a global change ex- perimental setup and the measured intensity of the urban heat island (UHI) and change in relative humidity along the gradient
+
 ---
 ### Teaching and capacity building
 
