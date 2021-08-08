@@ -34,6 +34,7 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 ---
 **Terrestrial ecosystems and monitoring**
+
 In order to answer scientific questions at the forefront of the field, I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. My effort on ecosystem monitoring has been dedicated to the establishment of a [supersite](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) (i.e., fully instrumented ecosystem observatory) in the temperate rain forests of South America as a model to understand the responses of forest ecosystems to climate drying from an integrated above-and below-ground perspective. This biome is undergoing a dramatic drying due to the poleward migration of the storm tracks with climate change38 and is therefore especially suited to study long-term re- sponses of temperate forests to drought and raising CO2 concentration under undisturbed nitrogen cycling.
 
 <img src="images/fig03_pheno_v3_clean.png?raw=true"/>
