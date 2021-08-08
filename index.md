@@ -32,8 +32,7 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 ---
 ### Cultural creation
 
-[Books](http://example.com/)
-<img src="images/IMG_6316.JPG?raw=true"/>
+**Books**
 Urbina, X. and J. Barichivich (Eds), 2021. La sobrevivencia del alerce y su cultura: la historia de los alerzales de la Cordillera Pelada, Chile. Ediciones Universitarias de Valparaíso (in press).
 
 [Digital media](http://example.com/)
