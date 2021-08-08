@@ -19,7 +19,9 @@ I hold a MSc in Climate Change and PhD in Environmental Sciences from the world 
 ### Awards & recent achievements
 
 2021 Scientific proposal reached the last stage of the [ERCstg 2021](https://erc.europa.eu/funding/starting-grants) and is under evaluation.
+
 2020 Scientific proposal reached the last stage of the [ERCstg 2020](https://erc.europa.eu/funding/starting-grants) but not selected.
+
 2019--2021 Laureate of the French presidential program of scientific research [Make Our Planet Great
 Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
 
