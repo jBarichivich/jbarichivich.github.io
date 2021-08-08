@@ -38,7 +38,7 @@ Urbina, X. and J. Barichivich (Eds), 2021. La sobrevivencia del alerce y su cult
 
 **Digital media**
 
-YouTube chanel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). A space for scientific outreach and record of our family fight for social justice. 
+YouTube chanel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). A space for scientific outreach, family heritage on nature conservation and activism to defend our land from a family of greedy lawyers.
 
 ### Social betterment
 
