@@ -47,12 +47,12 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 **Digital media**
 
-- Ethnographic documentary [Los Vecinos del Abuelo](https://www.youtube.com/watch?v=fkastaWvPMQ). A portrait of the cultural heritage and current struggles of the inhabitants of the Alerce forests near the Alerce Costero National Park in southern Chile.
+- Ethnographic documentary [Los Vecinos del Abuelo](https://www.youtube.com/watch?v=fkastaWvPMQ). *A portrait of the cultural heritage and current struggles of the inhabitants of the Alerce forests near the Alerce Costero National Park in southern Chile.*
 
 ### Social betterment
 - Creation of the neighbours council [Junta de Vecinos del Alerce Costero](https://www.youtube.com/watch?v=LPwrAk25nPI) (2016) in the mountain community where I grew up.
 
-- YouTube channel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). A space for scientific outreach, sharing family heritage on nature conservation and activism to defend our land from a family of greedy lawyers.
+- YouTube channel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). *A space for scientific outreach, sharing family heritage on nature conservation and activism to defend our land from a family of [greedy lawyers](https://www.raulintal.cl/).*
 
 ---
 <!-- Remove above link if you don't want to attibute -->
