@@ -22,7 +22,7 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 
 2021 Scientific proposal **Long-term consequences of altered tree growth and physiology in the Earth System (CATES)** reached the last stage of the [ERCstg 2021](https://erc.europa.eu/funding/starting-grants) and is currently under evaluation.
 
-2020 Scientific proposal **Decoding the tree-ring archive to better represent the global forests in Earth System Modelling (DECOFOR)** reached the last stage of the [ERCstg 2020](https://erc.europa.eu/funding/starting-grants).
+<!--2020 Scientific proposal **Decoding the tree-ring archive to better represent the global forests in Earth System Modelling (DECOFOR)** reached the last stage of the [ERCstg 2020](https://erc.europa.eu/funding/starting-grants).-->
 
 2019--2021 Laureate of the French presidential program of scientific research [Make Our Planet Great
 Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
