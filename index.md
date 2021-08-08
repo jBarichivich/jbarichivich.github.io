@@ -31,7 +31,7 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 <img src="images/proposal_diagram_v2.png?raw=true"/>
 
->Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of tree growth to global change.
+>Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of forest growth and physiology to global change.
 
 [Global climate](/sample_page)
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
