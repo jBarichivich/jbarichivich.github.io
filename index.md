@@ -32,6 +32,8 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 [Global climate](/sample_page)
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
+> The acceleration of the global Walker circulation and intensified flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
+
 ---
 **Monitoring and modelling of terrestrial ecosystems**
 
