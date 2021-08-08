@@ -52,6 +52,7 @@ I have mentored several undergraduate students at the Universidad Austral de Chi
 
 <img src="images/IMG_6316.JPG?raw=true"/>
 
+> Teaching in the field during the second Vegetation Dynamics Summer School in 2019.
 ---
 ### Cultural creation
 
