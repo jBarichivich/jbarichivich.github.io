@@ -36,6 +36,7 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 ---
 **Teaching and capacity building**
+
 I have dedicated a great deal of time to lead efforts for capacity building in order to attract talented students and start a modelling community in South America. Together with a Chilean colleague ([Alvaro Gutiérrez](http://www.bosqueciencia.org/), University of Chile) we have been successful in obtaining grants for networking with the ETH (Harald Bugmann) and the LSCE (Philippe Peylin). As a result we have created an annual [Summer School on Vegetation Dynamics](https://www.bosqueciencialab.org/vegetation-dynamics) to start exposing students to modelling from an early career stage. 
 
 I have mentored several undergraduate students in Chile. At PhD level I have co-supervised two students on the use of tree rings (Jina Jeong at VU Amsterdam and Alienor Lavergne at LSCE).
