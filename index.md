@@ -29,10 +29,6 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 ### Research areas
 
-<img src="images/proposal_diagram_v2.png?raw=true"/>
-
->Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of forest growth and physiology to global change.
-
 [Global climate](/sample_page)
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
@@ -40,6 +36,10 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 ---
 **Monitoring and modelling of terrestrial ecosystems**
+
+<img src="images/proposal_diagram_v2.png?raw=true"/>
+
+>Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of forest growth and physiology to global change.
 
 I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. This allows me to pose and answer scientific questions at the forefront of the field. 
 
