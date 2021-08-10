@@ -43,13 +43,13 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 
 **Monitoring and modelling terrestrial ecosystems**
 
-The global ecology component of my research relies on monitoring and modelling of the water and carbon cycle of forest ecosystems. My focus is on producing new knowledge on the biophysical processes involved on tree growth by integrating above and belowground components. This allows me to improve modelling of ecosystem dynamics and feedbacks to climate at long time scales from decades to century. 
+The global ecology component of my research relies on monitoring and modelling of the water and carbon cycle of forest ecosystems. I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. This allows me to pose and answer scientific questions at the forefront of the field. 
+<!--My focus is on producing new knowledge on the biophysical processes involved on tree growth by integrating above and belowground components. This allows me to improve modelling of ecosystem dynamics and feedbacks to climate at long time scales from decades to century.-->
+
 
 <img src="images/proposal_diagram_v2.png?raw=true"/>
 
 >Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of forest growth and physiology to global change.
-
-I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. This allows me to pose and answer scientific questions at the forefront of the field. 
 
 My effort on ecosystem monitoring has been dedicated to the establishment of a [supersite](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) (i.e., fully instrumented ecosystem observatory) in the temperate rain forests of South America as a model to understand the responses of forest ecosystems to climate drying from an integrated above-and below-ground perspective. This biome is undergoing a dramatic drying due to the poleward migration of the storm tracks with climate change and is therefore especially suited to study long-term responses of temperate forests to drought and raising CO2 concentrations under undisturbed nitrogen cycling.
 
