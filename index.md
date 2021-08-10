@@ -39,7 +39,7 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
-> The acceleration of the global Walker circulation and intensified flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
+> The acceleration of the global Walker circulation and unprecedented flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
 
 **Monitoring and modelling terrestrial ecosystems**
 
