@@ -43,6 +43,9 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 
 **Monitoring and modelling terrestrial ecosystems**
 
+My reserach on global ecology relies on monitoring and modelling of the water and carbon cycle of forest ecosystems.
+
+
 <img src="images/proposal_diagram_v2.png?raw=true"/>
 
 >Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of forest growth and physiology to global change.
