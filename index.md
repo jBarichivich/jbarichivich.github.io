@@ -43,7 +43,7 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 
 **Monitoring and modelling terrestrial ecosystems**
 
-The global ecology component of my research relies on monitoring and modelling of the water and carbon cycle of forest ecosystems.
+The global ecology component of my research relies on monitoring and modelling of the water and carbon cycle of forest ecosystems. My focus is on the biophysical processes involved on tree growth and ecosystem dynamics and feedbacks to climate at long time scales from decades to century. 
 
 
 <img src="images/proposal_diagram_v2.png?raw=true"/>
