@@ -35,7 +35,7 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 One of my primary research activities is on advancing our understanding of processes driving global climate anomalies (climate dynamics) and their feedbacks with the functioning of terrestrial ecosystems (global ecology). 
 
-One of my recent works revealed how the intensification of tropical Walker cicrculation has driven the observed intensification of the hydrological cycle of the Amazon basin. Contrary to the prevailing view on catastrophic drought in the basin, my research showed that flooding was the hydrological feature that has changed most in recent decades. The frequency of severe floods has increased 5-fold since 1960 because of intensified atmospheric circulation and water vapour transport.
+In a recent work we revealed how the intensification of tropical Walker cicrculation has driven the observed intensification of the hydrological cycle of the Amazon basin. Contrary to the prevailing view on catastrophic drought in the basin, my research showed that flooding was the hydrological feature that has changed most in recent decades. The frequency of severe floods has increased 5-fold since 1960 because of intensified atmospheric circulation and water vapour transport.
 
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
