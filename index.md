@@ -33,7 +33,7 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 **Global climate and extremes**
 
-One of my primary research activities is on understanding processes driving global climate changes and extremes, and their feedbacks with terrestrial ecosystems.
+One of my primary research activities is on understanding processes driving global climate changes and extremes (climate dynamics), and their feedbacks with terrestrial ecosystems.
 Contrary to the prevailing view on catastrophic drought in the Amazon basin, my research showed that flooding was the hydrological feature that has changed most in recent decades, with a 5-fold increase in severe flood frequency since 1960.
 
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
