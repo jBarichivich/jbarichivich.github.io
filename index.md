@@ -33,8 +33,8 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 **Global climate and extremes**
 
-One of my primary research activities is on advancing our understanding of processes driving global climate anomalies (climate dynamics) and their feedbacks with the functioning of terrestrial ecosystems (global ecology). I a recent work I uncovered the climate mechanism driving the observed intensification of the hydrological cycle of the Amazon basin.
-Contrary to the prevailing view on catastrophic drought in the basin, my research showed that flooding was the hydrological feature that has changed most in recent decades, with a 5-fold increase in severe flood frequency since 1960 because of the intensification of the global Walker circulation.
+One of my primary research activities is on advancing our understanding of processes driving global climate anomalies (climate dynamics) and their feedbacks with the functioning of terrestrial ecosystems (global ecology). I a recent work I uncovered the climate mechanism (intensification of tropical cicrculation) driving the observed intensification of the hydrological cycle of the Amazon basin.
+Contrary to the prevailing view on catastrophic drought in the basin, my research showed that flooding was the hydrological feature that has changed most in recent decades. The frequency of severe floods has increased 5-fold since 1960 because of the intensification of the global Walker circulation.
 
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
