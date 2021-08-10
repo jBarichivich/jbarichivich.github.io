@@ -29,7 +29,13 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 ### Research areas
 
-[Global climate and extremes](/sample_page)
+<!--[Global climate and extremes](/sample_page)-->
+
+**Global climate and extremes**
+
+One of my primary reserach activities is on understanding processes driving global climate changes and extremes, particularly regardinf the hydrological cycle.
+Contrary to the prevailing view on catastrophic drought in the Amazon basin, my research showed that flooding was the hydrological feature that has changed most in recent decades, with a 5-fold increase in severe flood frequency since 1960.
+
 <img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
 
 > The acceleration of the global Walker circulation and intensified flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
