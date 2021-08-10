@@ -1,4 +1,4 @@
-## Research portfolio (in development)
+## Research portfolio
 
 ## Bio
 **I integrate measurements and models to reconstruct and predict the interactions between terrestrial ecosystems and the climate system from days to centuries.** To achieve this I work across components of the Earth System and collaborate with colleagues from around the world. My publications and their impact can be found in [GoogleScholar](https://scholar.google.com/citations?user=134gvMcAAAAJ&hl=en).
@@ -34,15 +34,6 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 > The acceleration of the global Walker circulation and intensified flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
 
-**Reconstructing and monitoring global drought**
-
-As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
-
-<img src="images/drought_bams2021.png?raw=true"/>
-
-> Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
-
----
 **Monitoring and modelling terrestrial ecosystems**
 
 <img src="images/proposal_diagram_v2.png?raw=true"/>
@@ -56,6 +47,15 @@ My effort on ecosystem monitoring has been dedicated to the establishment of a [
 <img src="images/fig03_pheno_v3_clean.png?raw=true"/>
 
 > Biological clocks of a coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
+---
+
+**Reconstructing and monitoring global drought**
+
+As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
+
+<img src="images/drought_bams2021.png?raw=true"/>
+
+> Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
 
 **Cities as global change experiments**
 
@@ -90,7 +90,7 @@ I have mentored several undergraduate students at the Universidad Austral de Chi
 ### Social betterment
 - Creation of the neighbours council [Junta de Vecinos del Alerce Costero](https://www.youtube.com/watch?v=LPwrAk25nPI) (2016) in the mountain community where I grew up.
 
-- YouTube channel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). *A space for scientific outreach, sharing family heritage on nature conservation and activism to defend our land from a family of [greedy lawyers](https://www.raulintal.cl/).*
+- YouTube channel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). *A space for scientific outreach, sharing family heritage on nature conservation and activism to defend our land from a family of [greedy developers](https://www.raulintal.cl/).*
 
 - Directory member of the [Corporación Alerce](http://www.corporacionalerce.cl/jonathan-barichivich/), an NGO that promotes the scientific knowledge and conservation of the remnants of native forests of the long-lived conifer *Fitzroya cupressoides* in the temperate rainforests of Chile.
 
