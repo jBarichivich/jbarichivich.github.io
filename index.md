@@ -41,6 +41,14 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 
 > The acceleration of the global Walker circulation and unprecedented flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
 
+**Reconstructing and monitoring global drought**
+
+As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
+
+<img src="images/drought_bams2021.png?raw=true"/>
+
+> Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
+
 **Monitoring and modelling terrestrial ecosystems**
 
 The global ecology component of my research relies on monitoring and modelling of the water and carbon cycle of forest ecosystems. I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. This allows me to pose and answer scientific questions at the forefront of the field. 
@@ -58,14 +66,6 @@ My effort on ecosystem monitoring has been dedicated to the establishment of a [
 > Biological clocks of a coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
 
 ---
-
-**Reconstructing and monitoring global drought**
-
-As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
-
-<img src="images/drought_bams2021.png?raw=true"/>
-
-> Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
 
 **Cities as global change experiments**
 
