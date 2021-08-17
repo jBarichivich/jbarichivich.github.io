@@ -42,13 +42,16 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 > The acceleration of the global Walker circulation and unprecedented flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
 
 ---
-**b. Reconstructing drought and monitoring the emerging global water crisis**
+**b. Reconstructing and monitoring global drought**
+<!--b. Reconstructing drought and monitoring the emerging global water crisis-->
 
 As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
 
 <img src="images/drought_bams2021.png?raw=true"/>
 
 > Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
+
+I reconstruct past drought variability (scPDSI) in space and time using networks of tree-ring records in order to produce [drought atlases](https://github.com/jBarichivich/SADITA) that can be compared with climate model simulations. I am particularly interested in producing high-resolution drought atlases for sensitive regions at the scale of 5--10 km.
 
 ---
 **c. Monitoring and modelling terrestrial ecosystems**
