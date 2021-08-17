@@ -45,7 +45,7 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 **b. Reconstructing and monitoring global drought**
 <!--b. Reconstructing drought and monitoring the emerging global water crisis-->
 
-As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
+As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/). We provide an annual update of drought extent, severity and location from 1901 based on the self-calibrating Palmer Drought Severity Index (scPDSi) computed using the gridded climate fields from the [CRU TS dataset](https://crudata.uea.ac.uk/cru/data/drought/).
 
 <img src="images/drought_bams2021.png?raw=true"/>
 
