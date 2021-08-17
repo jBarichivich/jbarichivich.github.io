@@ -73,6 +73,10 @@ Current mechanistic understanding of century-scale responses of mature forests t
 
 <!--I am writing research proposals and on how to use new mechanistic insights from tree rings to improve and constrain the responses of the ORCHIDEE global land surface model at long time scales and thereby improve future projections of the state of the land sur- face.-->
 
+<img src="images/key_figure.png?raw=true"/>
+
+> Triple tree-ring constraint to assess the integrated tree growth and physiology model responses as proposed by [Barichivich et al. (2020)](https://bg.copernicus.org/articles/18/3781/2021/).
+
 ---
 **Cities as global change experiments**
 
