@@ -69,7 +69,7 @@ My effort on ecosystem monitoring has been dedicated to the establishment of a [
 **Improving long-term forest responses in global land surface models**
 
 <!--Short-term manipulative global change experiments under controlled conditions (e.g.,FACE) are the backbone of the development, parameterization and benchmarking of current process-based models from plant organs to the global land surface. -->
-Current mechanistic understanding of century-scale responses of mature forests to global change factors (e.g., climate, CO2, nitrogen, pollutants) is still limited. Advances in this area are crucial to constrain and improve plant growth representations in next generation global land surface models to reduce uncertainties in projections of the feedbacks of terrestrial ecosystems to global climate.
+Current mechanistic understanding of century-scale responses of mature forests to global change factors (e.g., climate, CO2, nitrogen, pollutants) is still limited. Advances in this area are crucial to constrain and improve plant growth representations in next generation global land surface models to reduce the large uncertainties of projections of the feedbacks of terrestrial ecosystems to global climate.
 
 <!--I am writing research proposals and on how to use new mechanistic insights from tree rings to improve and constrain the responses of the ORCHIDEE global land surface model at long time scales and thereby improve future projections of the state of the land sur- face.-->
 
