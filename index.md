@@ -51,7 +51,7 @@ As part of my work as Associate Fellow in CRU, I lead the yearly assessment of g
 
 > Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
 
-Besides the instrumental record, I also reconstruct past drought variability (scPDSI) in space and time using networks of tree-ring records in order to produce [drought atlases](https://github.com/jBarichivich/SADITA) that can be compared with climate model simulations. I am particularly interested in producing high-resolution drought atlases for sensitive regions at the scale of 5--10 km. The reconstructed maps can be analysed to characterise the spatial extent and severity of past droughts, quantify their impacts on society and ecosystems, and study the mechanisms that cause the different types of droughts (e.g., interannual, multiannual, megadroughts, compound extreme droughts). 
+Beside maintaining the instrumental record of global drought, I also reconstruct past drought variability (scPDSI) in space and time using networks of tree-ring records in order to produce [drought atlases](https://github.com/jBarichivich/SADITA) that can be compared with climate model simulations. I am particularly interested in producing high-resolution drought atlases for sensitive regions at the scale of 5--10 km. The reconstructed maps can be analysed to characterise the spatial extent and severity of past droughts, quantify their impacts on society and ecosystems, and study the mechanisms that cause the different types of droughts (e.g., interannual, multiannual, megadroughts, compound extreme droughts). 
 
 ---
 **c. Monitoring and modelling terrestrial ecosystems**
