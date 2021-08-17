@@ -31,7 +31,7 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 <!--[Global climate and extremes](/sample_page)-->
 
-**Global climate and extremes**
+**a. Global climate and extremes**
 
 One of my primary research activities is on advancing our understanding of processes driving global climate anomalies (climate dynamics) and their feedbacks with the functioning of terrestrial ecosystems (global ecology). 
 
@@ -41,7 +41,7 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 
 > The acceleration of the global Walker circulation and unprecedented flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
 
-**Reconstructing drought and monitoring the emerging global water crisis**
+**b. Reconstructing drought and monitoring the emerging global water crisis**
 
 As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
 
@@ -49,7 +49,7 @@ As part of my work as Associate Fellow in CRU, I lead the yearly assessment of g
 
 > Monitoring global drought using the self-calibrating Palmer Drought Severity Index for BAMS State of the Climate in 2020 (in press).
 
-**Monitoring and modelling terrestrial ecosystems**
+**c. Monitoring and modelling terrestrial ecosystems**
 
 The global ecology component of my research relies on monitoring and modelling of the water and carbon cycle of forest ecosystems. I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. This allows me to pose and answer scientific questions at the forefront of the field. 
 <!--My focus is on producing new knowledge on the biophysical processes involved on tree growth by integrating above and belowground components. This allows me to improve modelling of ecosystem dynamics and feedbacks to climate at long time scales from decades to century.-->
@@ -66,7 +66,7 @@ My effort on ecosystem monitoring has been dedicated to the establishment of a [
 > Biological clocks of a coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
 
 ---
-**Improving long-term forest responses in global land surface models**
+**d. Improving long-term forest responses in global land surface models**
 
 <!--Short-term manipulative global change experiments under controlled conditions (e.g.,FACE) are the backbone of the development, parameterization and benchmarking of current process-based models from plant organs to the global land surface. -->
 Current mechanistic understanding of century-scale responses of mature forests to global change factors (e.g., climate, CO2, nitrogen, pollutants) is still limited. Advances in this area are crucial to constrain and improve plant growth representations in next generation global land surface models with the aim of reducing the large uncertainties of projections of the feedbacks of terrestrial ecosystems to global climate.
@@ -78,7 +78,7 @@ Current mechanistic understanding of century-scale responses of mature forests t
 > Triple growth-isotope tree-ring constraint to evaluate the integrated model responses as proposed by [Barichivich et al. (2021)](https://bg.copernicus.org/articles/18/3781/2021/).
 
 ---
-**Cities as global change experiments**
+**e. Cities as global change experiments**
 
 Altered biogeochemical cycles, with higher CO2 concentrations and significantly stronger warming than in their rural surroundings make cities a natural climate change experiment. Current conditions in metropolitan regions simulate some of those that natural ecosystems will experience with similar intensity in the near future, notably warming. I am exploiting this feature of cities as a convenient alternative to expensive warming experiments. I am testing if urban-rural gradients in mega-cities can be used to study short-term ecosystem responses (e.g., growth extremes) and long-term adaptations (e.g., water use efficiency, stomatal responses) to climate change factors, in particular to warming.
 
