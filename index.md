@@ -66,7 +66,7 @@ My effort on ecosystem monitoring has been dedicated to the establishment of a [
 > Biological clocks of a coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
 
 ---
-**d. Improving long-term forest responses in global land surface models**
+**d. Improving global land surface models at long timescales**
 
 <!--Short-term manipulative global change experiments under controlled conditions (e.g.,FACE) are the backbone of the development, parameterization and benchmarking of current process-based models from plant organs to the global land surface. -->
 Current mechanistic understanding of century-scale responses of mature forests to global change factors (e.g., climate, CO2, nitrogen, pollutants) is still limited. Advances in this area are crucial to constrain and improve plant growth representations in next generation global land surface models with the aim of reducing the large uncertainties of projections of the feedbacks of terrestrial ecosystems to global climate.
