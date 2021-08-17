@@ -41,7 +41,7 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 
 > The acceleration of the global Walker circulation and unprecedented flooding in Amazonia as reported by [Barichivich et al. (2018)](https://advances.sciencemag.org/content/4/9/eaat8785).
 
-**Reconstructing and monitoring global drought**
+**Reconstructing drought and monitoring the emerging global water crisis**
 
 As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
 
