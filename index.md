@@ -75,7 +75,7 @@ Current mechanistic understanding of century-scale responses of mature forests t
 
 <img src="images/key_figure.png?raw=true"/>
 
-> Triple growth-isotope tree-ring constraint to evaluate the integrated model responses as proposed by [Barichivich et al. (2020)](https://bg.copernicus.org/articles/18/3781/2021/).
+> Triple growth-isotope tree-ring constraint to evaluate the integrated model responses as proposed by [Barichivich et al. (2021)](https://bg.copernicus.org/articles/18/3781/2021/).
 
 ---
 **Cities as global change experiments**
