@@ -75,7 +75,7 @@ Current mechanistic understanding of century-scale responses of mature forests t
 
 <img src="images/key_figure.png?raw=true"/>
 
-> Triple tree-ring constraint to assess the integrated tree growth and physiology model responses as proposed by [Barichivich et al. (2020)](https://bg.copernicus.org/articles/18/3781/2021/).
+> Triple tree-ring constraint to evaluate the integrated tree growth and physiology model responses as proposed by [Barichivich et al. (2020)](https://bg.copernicus.org/articles/18/3781/2021/).
 
 ---
 **Cities as global change experiments**
