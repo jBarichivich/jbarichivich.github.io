@@ -56,6 +56,8 @@ Beside maintaining the instrumental record of global drought, I also reconstruct
 ---
 **c. Monitoring and modelling terrestrial ecosystems**
 
+<!--Physiological dendrochronolog -->
+
 The global ecology component of my research relies on monitoring and modelling of the water and carbon cycle of forest ecosystems. I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. This allows me to pose and answer scientific questions at the forefront of the field. 
 <!--My focus is on producing new knowledge on the biophysical processes involved on tree growth by integrating above and belowground components. This allows me to improve modelling of ecosystem dynamics and feedbacks to climate at long time scales from decades to century.-->
 
