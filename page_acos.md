@@ -16,8 +16,16 @@
 > Environmental variables recorded at the site and location of plots and footprint of the eddy tower.
 
 
+<img src="images/fig04_diego.png?raw=true"/>
+
+> View of the tower and data collection.
 
 
+<img src="images/fig08_nancy.png?raw=true"/>
+
+> Shoot growth and xylogenesis monitoring.
+
+ 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
