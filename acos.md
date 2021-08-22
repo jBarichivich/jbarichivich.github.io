@@ -4,6 +4,12 @@
 
 ### 1. Site setup
 
+<img src="images/ACOS_site_map_v3.png?raw=true"/>
+
+> Map of site installations
+
+
+
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
