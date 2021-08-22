@@ -21,6 +21,7 @@
 > View of the tower and data collection.
 
 
+
 <img src="images/fig08_nancy.png?raw=true"/>
 
 > Shoot growth and xylogenesis monitoring.
