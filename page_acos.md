@@ -13,7 +13,7 @@
 
 <img src="images/ACOS_site_map_v3.png?raw=true"/>
 
-> Environmental variables recorded at the site and location of plots and footrpint of the eddy tower.
+> Environmental variables recorded at the site and location of plots and footprint of the eddy tower.
 
 
 
