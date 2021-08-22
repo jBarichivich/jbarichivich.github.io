@@ -4,9 +4,17 @@
 
 ### 1. Site setup
 
+<img src="images/site_diagram_v2_ES.png?raw=true"/>
+
+> Biogeographic location and seasonal water avail- ability at the study site together with the set of top-down and bottom-up measurements.
+
+
+
+
 <img src="images/ACOS_site_map_v3.png?raw=true"/>
 
-> Map of site installations
+> Environmental variables recorded at the site and location of plots and footrpint of the eddy tower.
+
 
 
 
