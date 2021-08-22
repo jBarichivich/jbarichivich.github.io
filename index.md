@@ -66,7 +66,7 @@ The global ecology component of my research relies on monitoring and modelling o
 
 >Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of forest growth and physiology to global change.
 
-My effort on [ecosystem monitoring](https://github.com/jBarichivich/jbarichivich.github.io/blob/master/acos.md) has been dedicated to the establishment of a [supersite](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) (i.e., fully instrumented ecosystem observatory) in the temperate rain forests of South America as a model to understand the responses of forest ecosystems to climate drying from an integrated above-and below-ground perspective. This biome is undergoing a dramatic drying due to the poleward migration of the storm tracks with climate change and is therefore especially suited to study long-term responses of temperate forests to drought and raising CO2 concentrations under undisturbed nitrogen cycling.
+My effort on [ecosystem monitoring](https://github.com/jBarichivich/acos.md) has been dedicated to the establishment of a [supersite](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) (i.e., fully instrumented ecosystem observatory) in the temperate rain forests of South America as a model to understand the responses of forest ecosystems to climate drying from an integrated above-and below-ground perspective. This biome is undergoing a dramatic drying due to the poleward migration of the storm tracks with climate change and is therefore especially suited to study long-term responses of temperate forests to drought and raising CO2 concentrations under undisturbed nitrogen cycling.
 
 <img src="images/fig03_pheno_v3_clean.png?raw=true"/>
 
