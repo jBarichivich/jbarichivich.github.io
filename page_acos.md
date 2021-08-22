@@ -24,7 +24,7 @@
 
 <img src="images/fig08_nancy.png?raw=true"/>
 
-> Shoot growth and xylogenesis monitoring.
+> Shoot growth and xylogenesis monitoring in the footprint of the flux tower.
 
  
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
