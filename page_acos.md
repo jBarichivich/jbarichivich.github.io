@@ -6,7 +6,7 @@
 
 <img src="images/site_diagram_v2_ES.png?raw=true"/>
 
-> Biogeographic location and seasonal water avail- ability at the study site together with the set of top-down and bottom-up measurements.
+> Biogeographic location and seasonal water availability at the monitoring site together with the set of top-down and bottom-up measurements collected simultaneously.
 
 
 
