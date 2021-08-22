@@ -21,10 +21,15 @@
 > View of the tower and data collection.
 
 
-
 <img src="images/fig08_nancy.png?raw=true"/>
 
 > Shoot growth and xylogenesis monitoring in the footprint of the flux tower.
+
+
+<img src="images/dendrometros_rocio.png?raw=true"/>
+
+> Sub-hourly dendrometer and sapflow measurements in the footprint of the flux tower.
+
 
 
 <!--
