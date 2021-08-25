@@ -47,7 +47,7 @@ In a [recent work](https://advances.sciencemag.org/content/4/9/eaat8785) we reve
 
 As part of my work as Associate Fellow in CRU, I lead the yearly assessment of global drought since 2015 in the State of the Climate supplement of the [Bulletin of the American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/). We provide an annual update of drought extent, severity and location from 1901 based on the self-calibrating Palmer Drought Severity Index (scPDSI) computed using the gridded climate fields from the [CRU TS dataset](https://crudata.uea.ac.uk/cru/data/drought/).
 
-<img src="images/drought_bams2021.png?raw=true"/>
+<img src="images/drought_bams2021_ok.png?raw=true"/>
 
 > Monitoring global drought using the self-calibrating Palmer Drought Severity Index for [BAMS State of the Climate in 2020](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/state-of-the-climate/).
 
@@ -56,7 +56,7 @@ Beside maintaining the instrumental record of global drought, I also reconstruct
 ---
 **c. Monitoring and modelling terrestrial ecosystems**
 
-<!--Physiological dendrochronolog -->
+<!--Physiological dendrochronology -->
 
 The global ecology component of my research relies on monitoring and modelling of the water and carbon cycle of forest ecosystems. I design and collect my own obervations to advance current process-based understanding in critical areas and improve models useful at different scales. This allows me to pose and answer scientific questions at the forefront of the field. 
 <!--My focus is on producing new knowledge on the biophysical processes involved on tree growth by integrating above and belowground components. This allows me to improve modelling of ecosystem dynamics and feedbacks to climate at long time scales from decades to century.-->
