@@ -87,7 +87,7 @@ Current land surface models rely on the flawed assumption that plant biomass gro
 
 <img src="images/TreeRing_aggregated_model.png?raw=true"/>
 
-> The aggregated conceptual model of tree-ring width and the analogue processes simulated by the ORCHIDEE global land surface model.
+> The aggregated conceptual model of tree-ring width (Cook 1987) and the analogue processes simulated by the ORCHIDEE global land surface model.
 
 <!--LSM projections of forest biomass and carbon balance increasingly diverge over longer periods, thus limiting confidence in future climate projections. I am writing research proposals and on how to use new mechanistic insights from tree rings to improve and constrain the responses of the ORCHIDEE global land surface model at long time scales and thereby improve future projections of the state of the land sur- face.-->
 
