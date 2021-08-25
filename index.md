@@ -79,13 +79,17 @@ My effort on [ecosystem monitoring](page_acos.md) has been dedicated to the esta
 
 This innovative research line is at the crossroads of climate and ecology. It draws on my unique skill set across different components of the Earth system. I seek to develop a new cross-disciplinary framework to constrain climate projections by jointly improving the simulation of forest growth and water use at long time scales (decades to century) using novel observational constraints for historical growth and physiology derived from tree-ring data. This involves developing [novel uses of tree-ring data](https://gmd.copernicus.org/preprints/gmd-2020-29/) (e.g., [triple tree-ring constraint](https://bg.copernicus.org/articles/18/3781/2021/) pictured below) and updating the biology of tree growth in global land surface models to integrate the so-called source-sink growth paradigms. 
 
-Current land surface models rely on the flawed assumption that plant biomass growth depends directly on photosynthetic carbon uptake (i.e., carbon source limitation) instead of growth activity in meristematic plant tissues (e.g., wood formation), which has different environmental responses than photosynthesis. This has enormous consequences for forest-climate feedbacks and projected climate change.
-
-<!--LSM projections of forest biomass and carbon balance increasingly diverge over longer periods, thus limiting confidence in future climate projections. I am writing research proposals and on how to use new mechanistic insights from tree rings to improve and constrain the responses of the ORCHIDEE global land surface model at long time scales and thereby improve future projections of the state of the land sur- face.-->
-
 <img src="images/key_figure.png?raw=true"/>
 
 > Triple growth-isotope tree-ring constraint to evaluate the integrated model responses as proposed by [Barichivich et al. (2021)](https://bg.copernicus.org/articles/18/3781/2021/).
+
+Current land surface models rely on the flawed assumption that plant biomass growth depends directly on photosynthetic carbon uptake (i.e., carbon source limitation) instead of growth activity in meristematic plant tissues (e.g., wood formation), which has different environmental responses than photosynthesis. This has enormous consequences for forest-climate feedbacks and projected climate change.
+
+<img src="images/TreeRing_aggregated_model.png?raw=true"/>
+
+> The aggregated conceptual model of tree-ring width and the analogue processes simulated by the ORCHIDEE global land surface model.
+
+<!--LSM projections of forest biomass and carbon balance increasingly diverge over longer periods, thus limiting confidence in future climate projections. I am writing research proposals and on how to use new mechanistic insights from tree rings to improve and constrain the responses of the ORCHIDEE global land surface model at long time scales and thereby improve future projections of the state of the land sur- face.-->
 
 ---
 **e. Urban climate and cities as global change experiments**
