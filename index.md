@@ -88,7 +88,7 @@ Current land surface models rely on the flawed assumption that plant biomass gro
 > Triple growth-isotope tree-ring constraint to evaluate the integrated model responses as proposed by [Barichivich et al. (2021)](https://bg.copernicus.org/articles/18/3781/2021/).
 
 ---
-**e. Cities as global change experiments**
+**e. Urban climate and cities as global change experiments**
 
 Altered biogeochemical cycles, with higher CO2 concentrations and significantly stronger warming than in their rural surroundings make cities a natural climate change experiment. Current conditions in metropolitan regions simulate some of those that natural ecosystems will experience with similar intensity in the near future, notably warming. I am exploiting this feature of cities as a convenient alternative to expensive warming experiments. 
 
