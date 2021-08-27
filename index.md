@@ -54,7 +54,7 @@ As part of my work as Associate Fellow in CRU, I lead the yearly assessment of g
 Beside maintaining the instrumental record of global drought, I also reconstruct past drought variability (scPDSI) in space and time using networks of tree-ring records in order to produce [drought atlases](https://github.com/jBarichivich/SADITA) that can be compared with climate model simulations. I am particularly interested in producing high-resolution drought atlases for sensitive regions at the scale of 5--10 km. The reconstructed maps can be analysed to characterise the spatial extent and severity of past droughts, quantify their impacts on society and ecosystems, and study the mechanisms that cause the different types of droughts (e.g., interannual, multiannual, megadroughts, compound extreme droughts). 
 
 ---
-**c. Monitoring and modelling terrestrial ecosystems**
+**c. Monitoring and modelling terrestrial ecosystems in the critical zone**
 
 <!--Physiological dendrochronology -->
 
@@ -66,7 +66,7 @@ The global ecology component of my research relies on monitoring and modelling o
 
 >Conceptual diagram of my research program to advance current process-based understanding and projection of long-term responses of forest growth and physiology to global change.
 
-My effort on [ecosystem monitoring](page_acos.md) has been dedicated to the establishment of a [supersite](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) (i.e., fully instrumented ecosystem observatory) in the temperate rain forests of South America as a model to understand the responses of forest ecosystems to climate drying from an integrated above-and below-ground perspective. This biome is undergoing a dramatic drying due to the poleward migration of the storm tracks with climate change and is therefore especially suited to study long-term responses of temperate forests to drought and raising CO2 concentrations under undisturbed nitrogen cycling.
+My effort on [ecosystem monitoring](page_acos.md) has been dedicated to the establishment of an [an observatory of the critical zone](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) in the temperate rain forests of South America as a model to understand the responses of critical zone to climate drying from an integrated above-and below-ground perspective. This biome is undergoing a dramatic drying due to the poleward migration of the storm tracks with climate change and is therefore especially suited to study long-term responses of temperate forests to drought and raising CO2 concentrations under undisturbed nitrogen cycling.
 
 <img src="images/fig03_pheno_v3_clean.png?raw=true"/>
 
