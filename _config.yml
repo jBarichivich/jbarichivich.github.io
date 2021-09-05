@@ -11,6 +11,10 @@ google_analytics: UA-206768013-1
 #    https://support.google.com/analytics/answer/10269537?hl=en 
 # 2. Add UA tracker to GitHub .yml
 #    https://morotsman.github.io/blog,/google/analytics,/jekyll,/github/pages/2020/07/07/add-google-analytics.html
+# 3. Check that it works recording traffic
+#    Go to properties/tracking/Tracking ID and in status it should say "Receiving traffic in past 48 hours."
+#
+# Other stuff:
 # UA-000000-0 # your Google Analytics tracking ID here, To set up correctly see: https://www.youtube.com/watch?v=9yc0T4tR4gg and https://www.youtube.com/watch?v=QfUSKYJz5QE
 # UA-206768013-1 github-pages UA tracker
 # https://support.google.com/analytics/answer/10269537?hl=en 
