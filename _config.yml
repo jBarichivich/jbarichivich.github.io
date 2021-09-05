@@ -6,6 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 google_analytics: UA-206768013-1
+# SOLUTION GOOGLE ANALYTICS
+# 1. Create property Universal [option hidden!]
+#    https://support.google.com/analytics/answer/10269537?hl=en 
+# 2. Add UA tracker to GitHub .yml
+#    https://morotsman.github.io/blog,/google/analytics,/jekyll,/github/pages/2020/07/07/add-google-analytics.html
 # UA-000000-0 # your Google Analytics tracking ID here, To set up correctly see: https://www.youtube.com/watch?v=9yc0T4tR4gg and https://www.youtube.com/watch?v=QfUSKYJz5QE
 # UA-206768013-1 github-pages UA tracker
 # https://support.google.com/analytics/answer/10269537?hl=en 
