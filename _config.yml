@@ -14,6 +14,9 @@ google_analytics: UA-206768013-1
 # 3. Check that it works recording traffic
 #    Go to properties/tracking/Tracking ID and in status it should say "Receiving traffic in past 48 hours."
 #
+# Tutorial google analytics:
+# https://www.youtube.com/watch?v=QfUSKYJz5QE
+#
 # Other stuff:
 # UA-000000-0 # your Google Analytics tracking ID here, To set up correctly see: https://www.youtube.com/watch?v=9yc0T4tR4gg and https://www.youtube.com/watch?v=QfUSKYJz5QE
 # UA-206768013-1 github-pages UA tracker
