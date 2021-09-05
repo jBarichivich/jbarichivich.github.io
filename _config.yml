@@ -5,6 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://scholar.google.cl/citations?hl=en&user=134gvMcAAAAJ/">See me in GoogleScholar</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-206781572-1 # UA-206768013-1 #UA-000000-0 # your Google Analytics tracking ID here, To set up correctly see: https://www.youtube.com/watch?v=9yc0T4tR4gg and https://www.youtube.com/watch?v=QfUSKYJz5QE
+google_analytics: G-DSYGM3527C # UA-206768013-1 #UA-000000-0 # your Google Analytics tracking ID here, To set up correctly see: https://www.youtube.com/watch?v=9yc0T4tR4gg and https://www.youtube.com/watch?v=QfUSKYJz5QE
 # https://support.google.com/analytics/answer/10269537?hl=en 
 # github-pages-GA4 asociated tag inside streams: UA-206781572-1 
