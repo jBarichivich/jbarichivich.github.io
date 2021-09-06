@@ -18,6 +18,12 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 - Feature in nature documentary [Expedição Água: rios voadores (Amazônia)](http://globoplay.globo.com/v/4944003/), Globo TV, Brazil. 
 - NewScientist. Feature interview [The Great Greening](https://www.newscientist.com/article/mg22029380-900-the-great-greening-the-coming-of-our-new-lush-earth/) by O. Heffernan.
 
+    <iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=p38PHroeZ_U" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 ### Recent awards & achievements
 
 2021 Scientific proposal **Long-term consequences of altered tree growth and physiology in the Earth System (CATES)** reached the last stage of the [ERCstg 2021](https://erc.europa.eu/funding/starting-grants) and is currently under evaluation.
