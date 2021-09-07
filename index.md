@@ -20,7 +20,7 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 
 ### Latest talk
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="315" src="https://www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 > August 2021, Invited talk at WSL, Switzerland.
