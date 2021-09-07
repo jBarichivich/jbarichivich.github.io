@@ -23,10 +23,10 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 
 <!-- 
 ** Embed youtube video in GitHub pages (see near bottom answer; copy embedding code from youtube Share): https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages
-**Get embedding link from yoiutube and remove "https" from link!!! 
+**Get embedding link from yoiutube and remove "https" from link, works in firefox but not in other browsers!!! 
 see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embedding-causes-warning-in-firefox -->
 
-<iframe width="560" height="315" src="www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > August 2021, Invited talk at WSL, Switzerland.
 
