@@ -40,7 +40,7 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 
 > August 2021, Invited talk at WSL, Switzerland.
 
-### Datasets
+### Latest datasets
 - [2021: Global self-calibrating Palmer Drought Severity Index dataset (CRUTS-scPDSI)](https://crudata.uea.ac.uk/cru/data/drought/)
 - [2021: High-resolution drougth Atlas for the Southern Andes (SADITA)](https://github.com/jBarichivich/SADITA)
 - [2021: Triple tree-ring constraint for models (data and code)](https://zenodo.org/record/4992981)
