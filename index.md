@@ -39,7 +39,14 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 2019--2021 Laureate of the French presidential program of scientific research [Make Our Planet Great
 Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
 
-### Research areas
+
+### DATASETS
+- [2021: Global self-calibrating Palmer Drought Severity Index dataset (CRUTS-scPDSI)](https://crudata.uea.ac.uk/cru/data/drought/)
+- [2021: High-resolution drougth Atlas for the Southern Andes (SADITA)](https://github.com/jBarichivich/SADITA)
+- [2021: Triple tree-ring constraint for models (data and code)](https://zenodo.org/record/4992981)
+- [2020: Simulations from the ORCHIDEE dynamic global vegetation model for the Vegetation Carbon Turnover Intercomparison](https://zenodo.org/record/3579402)
+
+### RESEARCH AREAS
 
 <!--[Global climate and extremes](/sample_page)-->
 
