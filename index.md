@@ -18,6 +18,16 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 - Feature in nature documentary [Expedição Água: rios voadores (Amazônia)](http://globoplay.globo.com/v/4944003/), Globo TV, Brazil. 
 - NewScientist. Feature interview [The Great Greening](https://www.newscientist.com/article/mg22029380-900-the-great-greening-the-coming-of-our-new-lush-earth/) by O. Heffernan.
 
+### Recent awards & achievements
+
+2021 Scientific proposal **Long-term consequences of altered tree growth and physiology in the Earth System (CATES)** reached the last stage of the [ERCstg 2021](https://erc.europa.eu/funding/starting-grants) and is currently under evaluation.
+
+<!--2020 Scientific proposal **Decoding the tree-ring archive to better represent the global forests in Earth System Modelling (DECOFOR)** reached the last stage of the [ERCstg 2020](https://erc.europa.eu/funding/starting-grants).-->
+
+2019--2021 Laureate of the French presidential program of scientific research [Make Our Planet Great
+Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
+
+
 ### Latest talk
 
 
@@ -30,23 +40,14 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 
 > August 2021, Invited talk at WSL, Switzerland.
 
-### Recent awards & achievements
-
-2021 Scientific proposal **Long-term consequences of altered tree growth and physiology in the Earth System (CATES)** reached the last stage of the [ERCstg 2021](https://erc.europa.eu/funding/starting-grants) and is currently under evaluation.
-
-<!--2020 Scientific proposal **Decoding the tree-ring archive to better represent the global forests in Earth System Modelling (DECOFOR)** reached the last stage of the [ERCstg 2020](https://erc.europa.eu/funding/starting-grants).-->
-
-2019--2021 Laureate of the French presidential program of scientific research [Make Our Planet Great
-Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
-
-
 ### DATASETS
 - [2021: Global self-calibrating Palmer Drought Severity Index dataset (CRUTS-scPDSI)](https://crudata.uea.ac.uk/cru/data/drought/)
 - [2021: High-resolution drougth Atlas for the Southern Andes (SADITA)](https://github.com/jBarichivich/SADITA)
 - [2021: Triple tree-ring constraint for models (data and code)](https://zenodo.org/record/4992981)
 - [2020: Simulations from the ORCHIDEE dynamic global vegetation model for the Vegetation Carbon Turnover Intercomparison](https://zenodo.org/record/3579402)
 
-### RESEARCH AREAS
+
+### Research areas
 
 <!--[Global climate and extremes](/sample_page)-->
 
