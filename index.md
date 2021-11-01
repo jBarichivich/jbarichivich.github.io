@@ -7,7 +7,7 @@ I hold an MSc in Climate Change and a PhD in Environmental Sciences from the wor
 
 My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), UK ([CRU](https://lr1.uea.ac.uk/cru/staff-and-students) and [University of Leeds](https://environment.leeds.ac.uk/geography)) and South America ([Austral University of Chile](http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/academicos/jonathan-barichivich.php), [University of Chile](https://www.bosqueciencialab.org/vegetation-dynamics), [Pontificial Catholic University of Valparaíso](https://www.pucv.cl/uuaa/site/edic/base/port/dendrolab.html)). Here I collaborate with colleagues on pressing global change questions using a diverse set of observations and models.
 
-### The science game: Looking for a host instituion
+### Surviving the science game: Looking for a host instituion
 The moment has come. I am looking for a professorship or permanent research position. I seek a vibrant e inclusive institution to develop my cross-scale research program on the Earth system, biosphere and society. If you are a representive of that institution, please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?)
 
 ### My work in the media
