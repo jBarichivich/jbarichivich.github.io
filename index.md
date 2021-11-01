@@ -8,7 +8,7 @@ I hold an MSc in Climate Change and a PhD in Environmental Sciences from the wor
 My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), UK ([CRU](https://lr1.uea.ac.uk/cru/staff-and-students) and [University of Leeds](https://environment.leeds.ac.uk/geography)) and South America ([Austral University of Chile](http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/academicos/jonathan-barichivich.php), [University of Chile](https://www.bosqueciencialab.org/vegetation-dynamics), [Pontificial Catholic University of Valparaíso](https://www.pucv.cl/uuaa/site/edic/base/port/dendrolab.html)). Here I collaborate with colleagues on pressing global change questions using a diverse set of observations and models.
 
 ### Looking for a host instituion
-The moment has come. I am looking for a professorship or research position in a vibrant institution to host my integrative research program on Earth system science and society. If you are that institution, please contact me [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?)
+The moment has come. I am looking for a professorship or permenent research position in a vibrant institution to host my integrative research program on the Earth system, biosphere and society. If you are a representive of that institution, please email me [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?)
 
 ### My work in the media
 - My research findings on Amazon climate change have been quoted by Sir David Attenborough in the BBC documentaries [A perfect planet: weather](https://dai.ly/x8457n3) (2020) and [Earth's great rivers: Amazon](https://dai.ly/x8457nv) (2021).
