@@ -31,7 +31,9 @@ The moment has come. I seek a vibrant and inclusive institution to develop my ER
 2019--2021 Laureate of the French presidential program of scientific research [Make Our Planet Great
 Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
 
-### ERC starting grant CATES: 1.5 M€ to improve climate models with the memory of the world's trees in 5 years (2022--2026)
+### ERC starting grant CATES
+> 1.5 M€ to improve climate models with the memory of the world's trees in 5 years (2022--2026)
+
 **Project description** [here](https://www.iledefrance-gif.cnrs.fr/fr/personne/jonathan-barichivich)
 
 **Summary**
