@@ -7,8 +7,8 @@ I hold an MSc in Climate Change and a PhD in Environmental Sciences from the wor
 
 My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), UK ([CRU](https://lr1.uea.ac.uk/cru/staff-and-students) and [University of Leeds](https://environment.leeds.ac.uk/geography)) and South America ([Austral University of Chile](http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/academicos/jonathan-barichivich.php), [University of Chile](https://www.bosqueciencialab.org/vegetation-dynamics), [Pontificial Catholic University of Valparaíso](https://www.pucv.cl/uuaa/site/edic/base/port/dendrolab.html)). Here I collaborate with colleagues on pressing global change questions using a diverse set of observations and models.
 
-### Battling the science game: Looking for a host institution
-The moment has come. I seek a vibrant and inclusive institution to develop my cross-scale research program on the Earth system, biosphere and society. If you are interested in my broad scientific perspective please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?)
+### Battling the science game: Looking for a permanent institution
+The moment has come. I seek a vibrant and inclusive institution to develop my ERC strating grant CATES with a cross-scale research program on the Earth system, biosphere and society. If you are interested in my broad scientific perspective please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?)
 
 ### My work in the media
 - My research findings on Amazon climate change have been quoted by Sir David Attenborough in the BBC documentaries [A perfect planet: weather](https://dai.ly/x8457n3) (2020) and [Earth's great rivers: Amazon](https://dai.ly/x8457nv) (2021).
@@ -24,7 +24,7 @@ The moment has come. I seek a vibrant and inclusive institution to develop my cr
 
 ### Recent awards & achievements
 
-2021 Scientific proposal **Long-term consequences of altered tree growth and physiology in the Earth System (CATES)** reached the last stage of the [ERCstg 2021](https://erc.europa.eu/funding/starting-grants) and is currently under evaluation.
+2021 Laureate of the [ERC starting grant 2021](https://erc.europa.eu/news/erc-2021-starting-grants-results) with the proposal **Long-term consequences of altered tree growth and physiology in the Earth System (CATES)**.
 
 <!--2020 Scientific proposal **Decoding the tree-ring archive to better represent the global forests in Earth System Modelling (DECOFOR)** reached the last stage of the [ERCstg 2020](https://erc.europa.eu/funding/starting-grants).-->
 
