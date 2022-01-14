@@ -34,6 +34,8 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 ### ERC starting grant CATES
 > 1.5 M€ to improve climate change projections using the memory of the world's trees in 5 years (2022--2026)
 
+<img src="images/ERC2_CNRS.png?raw=true"/>
+
 **Plain language project description** [here](https://www.iledefrance-gif.cnrs.fr/fr/personne/jonathan-barichivich)
 
 **Summary**
