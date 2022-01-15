@@ -36,6 +36,8 @@ Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), 
 
 <img src="images/ERC2_CNRS.png?raw=true"/>
 
+**3 minute pitch** [here](https://youtu.be/PJB53PxxH5A)
+
 **Plain language project description** [here](https://www.iledefrance-gif.cnrs.fr/fr/personne/jonathan-barichivich)
 
 **Summary**
