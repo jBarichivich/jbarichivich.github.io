@@ -68,6 +68,9 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 - [Alerce Costero Rainforest observatory (CL-ACF Ameriflux)](page_acos.md)
 - [Rural Water Supply Committee of Mashue](https://www.facebook.com/A.P.R.Mashue)
 
+### Events
+- [2022: Primer encuentro de ciencia ciudadana y saberes en Los Alerzales](event.md)
+
 ### Research areas
 
 <!--[Global climate and extremes](/sample_page)-->
