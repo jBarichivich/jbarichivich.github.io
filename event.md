@@ -12,7 +12,7 @@ Nuestra apuesta es que en el territorio, la ciencia ciudadana es una poderosa he
 
 Los saberes son formas o sistemas de conocimiento diferentes al “conocimiento científico” tradicional.
 
-El método científico no es el único medio para adquirir, sistematizar y registrar el conocimiento. Existen otros sistemas de conocimiento que han estado en práctica por milenios y se han preservado en diferentes formas a través de la cultura de los pueblos. Este conocimiento hace referencia a los mismos problemas del mundo tangible e intangible que la ciencia tradicional aborda, desde la medicina hasta la astronomía y la comprensión del universo. Por lo tanto, estos sistemas de conocimiento son complementarios y pueden ayudar a avanzar nuestro entendimiento del mundo a través de un diálogo intercultural.
+El método científico no es el único medio para adquirir, sistematizar y registrar el conocimiento. Existen otros sistemas de conocimiento que han estado en práctica por milenios y se han preservado en diferentes formas a través de la cultura de los pueblos. Este conocimiento hace referencia a los mismos problemas del mundo tangible e intangible que la ciencia tradicional aborda, desde la medicina hasta la astronomía y la comprensión del universo. Por lo tanto, estos sistemas de conocimiento son complementarios y pueden ayudar a avanzar nuestro entendimiento del mundo y de nuestras sociedades a través de un diálogo intercultural.
 
 ### 1. Site setup
 
