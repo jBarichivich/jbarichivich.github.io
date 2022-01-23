@@ -4,7 +4,7 @@
 
 Es la participación y colaboración voluntaria de los ciudadanos de cualquier edad y ocupación en actividades de investigación y monitoreo de un sistema para avanzar el conocimiento científico. A través de la ciencia ciudadana, las personas y comunidades pueden contribuir activamente a formar capacidades para evaluar sus impactos en el ambiente y asistir la toma de sus propias decisiones. 
 
-Esta práctica permite democratizar la ciencia y avanzar el entendimiento vivencial de problemas ambientales complejos como el cambio climático y la pérdida de la biodiversidad. Nuestra apuesta es que en el territorio, la ciencia ciudadana es una poderosa herramienta para que las comunidades puedan crear soluciones a problemas como la escasez hídrica y la necesidad de renaturalización de los paisajes fuertemente alterados por la industria forestal.
+Esta práctica permite democratizar la ciencia. También permite avanzar el entendimiento vivencial de problemas ambientales complejos más abstractos como el cambio climático y la pérdida de la biodiversidad. Nuestra apuesta es que en el territorio, la ciencia ciudadana es una poderosa herramienta para que las comunidades puedan crear sus propias soluciones a problemas como la escasez hídrica y la necesidad de renaturalización de los paisajes fuertemente alterados por la industria forestal y usos pasados.
 
 **Qué son los saberes?**
 
