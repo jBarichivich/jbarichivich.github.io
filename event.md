@@ -18,7 +18,9 @@ El método científico no es el único medio para adquirir, sistematizar y regis
 
 Este conocimiento hace referencia a los mismos problemas del mundo tangible e intangible que la ciencia tradicional aborda en disciplinas, desde la medicina hasta la astronomía y la comprensión del universo. Por lo tanto, estos sistemas de conocimiento son complementarios y nos pueden ayudar a avanzar nuestro entendimiento para encontrar soluciones a la actual crisis planetaria y social a través de un diálogo intercultural oportuno.
 
+**El objetivo del encuentro**
 
+El objetivo de este primer encuentro es comenzar un diálogo intercultural que permita aplicar nuestros conocimientos para minimizar el impacto de la crisis climática, destrucción y monetarización de la naturaleza (turismo) y escasez hídrica en el territorio en torno a la Cordillera de La Costa de La Unión.
 
 
 
