@@ -1,6 +1,6 @@
 ## Primer encuentro de ciencia ciudadana y saberes del sur en Los Alerzales, 2022
 
-<img src="images/ciencia-ciudadana7.jpg?raw=true"/>
+<img src="images/wordArt_event2.png?raw=true"/>
 
 **Qué es la ciencia ciudadana?** 
 
