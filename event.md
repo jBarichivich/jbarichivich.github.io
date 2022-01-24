@@ -22,8 +22,9 @@ Este conocimiento hace referencia a los mismos problemas del mundo tangible e in
 
 En este primer encuentro queremos comenzar un diálogo ciudadano intercultural que nos permita usar todas las formas de conocimiento oportunamente para minimizar el impacto de la crisis climática (escasez hídrica) y detener la creciente destrucción y monetarización de las últimas reservas de naturaleza, agua y lugares de significación espiritual en el territorio en torno a la Cordillera de la Costa de La Unión. Esta zona está amenazada por la promoción y expansión descontrolada del turismo de masas, especulación inmobiliaria, plantaciones forestales, economía del carbono y nuevas carreteras a lo largo de la Costa y a través de la Cordillera. 
 
+**Participación**
 
-
+Debido a la situación sanitaria y acceso a infraestrutura, la participación de este primer encuentro está enfocada a un grupo reducido de personas que incluye a representantes de la comunidad local, científicos, fundaciones, comités de agua potable rural y guardaparques.  
 
 <img src="images/site_diagram_v2_ES.png?raw=true"/>
 
