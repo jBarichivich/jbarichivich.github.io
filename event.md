@@ -4,7 +4,7 @@
 
 **Qué es la ciencia ciudadana?** 
 
-Es la participación y colaboración voluntaria de los ciudadanos de cualquier edad y ocupación en actividades de investigación y monitoreo de un sistema para avanzar el conocimiento científico. A través de la ciencia ciudadana, las personas y comunidades pueden contribuir activamente a formar capacidades para evaluar sus impactos en el ambiente y asistir la toma de sus propias decisiones. 
+Es la participación y colaboración voluntaria de los ciudadanos de cualquier edad y ocupación en actividades de investigación y monitoreo de un sistema para avanzar el conocimiento científico. A través de la ciencia ciudadana, las personas y comunidades pueden contribuir activamente a formar capacidades para evaluar sus impactos en el ambiente y asistir la toma de sus propias decisiones. También se conoce como ciencia participativa.
 
 El rápido avance tecnológico ha hecho la ciencia ciudadana más accesible que nunca. Su aplicación permite democratizar la ciencia y facilitar la adopción de nuevas prácticas y tecnologías. También permite avanzar el entendimiento vivencial de problemas ambientales más abstractos como el cambio climático y la pérdida de la biodiversidad. 
 
