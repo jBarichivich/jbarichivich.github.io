@@ -1,5 +1,7 @@
 ## Encuentro de ciencia ciudadana en Los Alerzales
 
+<img src="images/ciencia-ciudadana7.jpg?raw=true"/>
+
 **Qué es la ciencia ciudadana?** 
 
 Es la participación y colaboración voluntaria de los ciudadanos de cualquier edad y ocupación en actividades de investigación y monitoreo de un sistema para avanzar el conocimiento científico. A través de la ciencia ciudadana, las personas y comunidades pueden contribuir activamente a formar capacidades para evaluar sus impactos en el ambiente y asistir la toma de sus propias decisiones. 
@@ -18,7 +20,8 @@ Este conocimiento hace referencia a los mismos problemas del mundo tangible e in
 
 
 
-### 1. Site setup
+
+
 
 <img src="images/site_diagram_v2_ES.png?raw=true"/>
 
