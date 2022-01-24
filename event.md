@@ -1,4 +1,4 @@
-## Encuentro de ciencia ciudadana y saberes del sur en Los Alerzales, 2022
+## Primer encuentro de ciencia ciudadana y saberes del sur en Los Alerzales, 2022
 
 <img src="images/ciencia-ciudadana7.jpg?raw=true"/>
 
