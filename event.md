@@ -24,7 +24,7 @@ En este primer encuentro queremos comenzar un diálogo ciudadano intercultural q
 
 **Participación**
 
-Debido a la situación sanitaria y limitaciones de infraestructura, la participación de este primer encuentro está focalizada a un grupo reducido de personas (stakeholders) que incluye a representantes de la comunidad local, autoridades ancestrales, comités de agua potable rural, científicos, académicos y fundaciones.  
+Debido a la situación sanitaria y limitaciones de infraestructura, la participación de este primer encuentro es por invitación y está focalizada a un grupo reducido de personas (stakeholders) que incluye a representantes de la comunidad local, autoridades ancestrales, comités de agua potable rural, científicos, académicos y fundaciones.  
 
 <img src="images/site_diagram_v2_ES.png?raw=true"/>
 
