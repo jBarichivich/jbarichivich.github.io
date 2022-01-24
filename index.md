@@ -69,7 +69,7 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 - [Rural Water Supply Committee of Mashue](https://www.facebook.com/A.P.R.Mashue)
 
 ### Events
-- [2022: Primer encuentro de ciencia ciudadana y saberes del sur en Los Alerzales de la Füta Mawida, La Unión, Chile](event.md)
+- [29 enero 2022: Primer encuentro de ciencia ciudadana y saberes del sur en Los Alerzales de la Füta Mawida, La Unión, Chile](event.md)
 
 ### Research areas
 
