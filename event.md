@@ -26,7 +26,7 @@ Esta zona está amenazada por la promoción y expansión descontrolada del turis
 
 **Participación**
 
-Debido a la situación sanitaria e infraestructura, la participación de este primer encuentro es por invitación y está focalizada a un grupo reducido de personas (stakeholders) que incluye a representantes de la comunidad local, autoridades ancestrales, comités de agua potable rural, científicos, académicos y fundaciones.  
+Debido a la situación sanitaria e infraestructura, la participación en este primer encuentro es por invitación y está focalizada a un grupo reducido de personas (stakeholders) que incluye a representantes de la comunidad local, autoridades ancestrales, comités de agua potable rural, científicos, académicos y fundaciones.  
 
 <img src="images/measurements_citizens.png?raw=true"/>
 
