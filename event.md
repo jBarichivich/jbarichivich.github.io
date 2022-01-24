@@ -28,5 +28,9 @@ Esta zona está amenazada por la promoción y expansión descontrolada del turis
 
 Debido a la situación sanitaria e infraestructura, la participación en este primer encuentro es por invitación y está focalizada a un grupo reducido de personas (stakeholders) que incluye a representantes de la comunidad local, autoridades ancestrales, comités de agua potable rural, científicos, académicos y fundaciones.  
 
+**Dónde?**
+
+Los Alerzales, km 45 de la ruta T-800, camino La Unión-Hueicolla, frente al Parque Nacional Alerce Costero sector Altos del Mirador.
+
 <img src="images/measurements_citizens.png?raw=true"/>
 
