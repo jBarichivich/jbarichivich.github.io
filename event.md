@@ -20,7 +20,7 @@ Este conocimiento hace referencia a los mismos problemas del mundo tangible e in
 
 **El objetivo del encuentro**
 
-En este primer encuentro queremos comenzar un diálogo ciudadano intercultural que nos permita usar todas las formas de conocimiento a tiempo para minimizar el impacto de la crisis climática, destrucción y monetarización de la naturaleza (turismo) y creciente escasez hídrica en el territorio en torno a la Cordillera de La Costa de La Unión.
+En este primer encuentro queremos comenzar un diálogo ciudadano intercultural que nos permita usar todas las formas de conocimiento a tiempo para minimizar el impacto de la crisis climática, destrucción y monetarización de la naturaleza (turismo de masas, especulación inmobiliaria, nuevas carreteras) y creciente escasez hídrica en el territorio en torno a la Cordillera de La Costa de La Unión.
 
 
 
