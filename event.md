@@ -34,7 +34,7 @@ Los Alerzales, km 45 de la ruta T-800, camino La Unión-Hueicolla, frente al Par
 
 **Organización**
 
-Los guardianes de los Alerzales de la Füta Mawida. Contacto: oreobulus@gmail.com
+Familia Henríquez-Vivanco, Los guardianes de los Alerzales de la Füta Mawida. Contacto: oreobulus@gmail.com
 
 <img src="images/measurements_citizens.png?raw=true"/>
 
