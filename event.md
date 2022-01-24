@@ -32,5 +32,9 @@ Debido a la situación sanitaria e infraestructura, la participación en este pr
 
 Los Alerzales, km 45 de la ruta T-800, camino La Unión-Hueicolla, frente al Parque Nacional Alerce Costero sector Altos del Mirador.
 
+**Organización**
+
+Los guardianes de los Alerzales de la Füta Mawida. Contacto: oreobulus@gmail.com
+
 <img src="images/measurements_citizens.png?raw=true"/>
 
