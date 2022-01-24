@@ -1,4 +1,4 @@
-## Primer encuentro de ciencia ciudadana y saberes del sur, 2022. Los Alerzales de la Füta Mawida, km 45.
+## Primer encuentro de ciencia ciudadana y saberes del sur en los Alerzales de la Füta Mawida, 2022.
 
 <img src="images/evento_banner.png?raw=true"/>
 
