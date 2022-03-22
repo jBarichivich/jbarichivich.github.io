@@ -173,7 +173,7 @@ I have mentored several undergraduate students at the Universidad Austral de Chi
 ### Social betterment
 - Creation of the neighbours council [Junta de Vecinos del Alerce Costero](https://www.youtube.com/watch?v=LPwrAk25nPI) (2016) in the mountain community where I grew up.
 
-- YouTube channel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). *A space for scientific outreach, sharing family heritage on nature conservation and activism to defend our land from a family of [greedy developers](https://www.raulintal.cl/).*
+<!-- - YouTube channel [Los Alerzales km 45](https://www.youtube.com/channel/UCkzTm38ga3wOEuXx6sDKFIw). *A space for scientific outreach, sharing family heritage on nature conservation and activism to defend our land from a family of [greedy developers](https://www.raulintal.cl/).* -->
 
 - Directory member of the [Corporación Alerce](http://www.corporacionalerce.cl/jonathan-barichivich/), an NGO that promotes the scientific knowledge and conservation of the remnants of native forests of the long-lived conifer *Fitzroya cupressoides* in the temperate rainforests of Chile.
 
