@@ -11,7 +11,7 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 The moment has come. I seek a vibrant and inclusive institution to develop my ERC starting grant CATES with a cross-scale research program on the Earth system, biosphere and society. If you are interested in my broad scientific perspective please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?)
 
 ### My work in the media
-- Feauture in [ScienceInsider: Plants & Animals](https://news.mongabay.com/2020/05/flooding-devastates-ecuadors-indigenous-communities-in-the-amazon/](https://www.science.org/content/article/world-s-oldest-tree-growing-ravine-chile) on the Alerce Milenario monumental tree in the Chilean rainforest, May 2022.
+- Feauture in [ScienceInsider: Plants & Animals](https://www.science.org/content/article/world-s-oldest-tree-growing-ravine-chile) on the Alerce Milenario monumental tree in the Chilean rainforest, May 2022.
 - My research findings on Amazon climate change have been quoted by Sir David Attenborough in the BBC documentaries [A perfect planet: weather](https://dai.ly/x8457n3) (2020) and [Earth's great rivers: Amazon](https://dai.ly/x8457nv) (2021).
 - Feature in nature documentary [Historias de Arboles: el grandioso alerce](https://www.youtube.com/watch?v=aPBMgQdVciU), March 2020, Canal 13C, Chile.
 - Feature in nature documentary [Tráfico Ilícito: alerce](https://www.youtube.com/watch?v=L7H9bRavtUI), April 2020, La Red TV Chanel, Chile.
