@@ -47,7 +47,7 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 <!--The following three objectives are addressed: (1) advance the mechanistic representation of tree-ring growth and stable isotopes in the global LSM ORCHIDEE, the terrestrial component of the IPSL ESM; (2) use tree-ring data together with eddy covariance flux measurements to improve the capability of the model to simulate the effects of changing climate, CO2 and nitrogen on forest growth and WUE; (3) provide the first climate simulations until 2100 constrained by historical forest responses. The constrained projections will reduce uncertainties on the feedbacks of altered tree growth and physiology on climate.--> 
 
 ### Latest research
-> The ancient Alerce Milenario monumental tree in southern Chile is LIKELY more than 5000 years old and thus is ONE of the oldest LIVING trees on Earth as reported in [Science](https://www.science.org/content/article/world-s-oldest-tree-growing-ravine-chile). The paper is coming.
+> The ancient Alerce Milenario monumental tree in southern Chile is LIKELY more than 5000 years old. This would make it ONE of the oldest LIVING trees on Earth as reported in [Science](https://www.science.org/content/article/world-s-oldest-tree-growing-ravine-chile). The paper is coming.
 <img src="images/AMI_1988_github_v3.jpg?raw=true"/>
 
 ### Latest talk
