@@ -48,8 +48,8 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 
 ### Latest research findings
 > The ancient Alerce Milenario monumental tree in southern Chile is likely more than 5000 years.
-<img src="images/AMI_1988_github.jpg?raw=true width=48"/>
-
+<!--<img src="images/AMI_1988_github.jpg?raw=true width=48"/>
+<img src="images/AMI_1988_github.jpg" width="48">
 
 ### Latest talk
 
