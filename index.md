@@ -48,7 +48,7 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 
 ### Latest research
 > The ancient Alerce Milenario monumental tree in southern Chile is LIKELY more than 5000 years old and thus is ONE of the oldest LIVING trees on Earth as reported in [Science](https://www.science.org/content/article/world-s-oldest-tree-growing-ravine-chile). The paper is coming.
-<img src="images/AMI_1988_github_v3.png?raw=true"/>
+<img src="images/AMI_1988_github_v3.jpg?raw=true"/>
 
 ### Latest talk
 
