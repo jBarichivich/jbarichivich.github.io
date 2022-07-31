@@ -11,7 +11,7 @@ I am a senior scientist (Directeur de Recherche) in the CNRS and ERC-stg grantee
 
 My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), UK ([CRU](https://lr1.uea.ac.uk/cru/staff-and-students) and [University of Leeds](https://environment.leeds.ac.uk/geography)) and South America ([Austral University of Chile](http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/academicos/jonathan-barichivich.php), [University of Chile](https://www.bosqueciencialab.org/vegetation-dynamics), [Pontificial Catholic University of Valparaíso](https://www.pucv.cl/uuaa/site/edic/base/port/dendrolab.html)). Here I collaborate with colleagues on pressing global change questions using a diverse set of observations and models.
 
-<---### Battling the science game: Looking for a permanent institution
+<!--### Battling the science game: Looking for a permanent institution
 The moment has come. I seek a vibrant and inclusive institution to develop my ERC starting grant CATES with a cross-scale research program on the Earth system, biosphere and society. If you are interested in my broad scientific perspective please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?)-->
 
 ### My work in the media
