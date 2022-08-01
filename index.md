@@ -5,7 +5,7 @@
 
 I hold an MSc in Climate Change and a PhD in Environmental Sciences from the world renowned [Climatic Research Unit (CRU)](https://lr1.uea.ac.uk/cru/staff-and-students) of the University of East Anglia, UK. I was the last student of late [Prof. Keith Briffa](https://crudata.uea.ac.uk/cru/people/briffa/), a [world authority in quantitative dendroclimatology](https://www.theguardian.com/science/2017/dec/21/keith-briffa-obituary). 
 
-I work as a senior scientist (Directeur de Recherche) in the Centre National de la Recherche Scientifique (CNRS) at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE) in Paris, France. In 2021 I was awarded an ERC-stg to improve the ecology of the [terrestrial component](https://bg.copernicus.org/preprints/bg-2020-446/) of an Earth System model using tree rings. 
+I work as a senior scientist (Directeur de Recherche) in the Centre National de la Recherche Scientifique (CNRS) at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE) in Paris, France. In 2021 I was awarded an ERC-stg to improve the ecology of the [terrestrial component](https://bg.copernicus.org/preprints/bg-2020-446/) of the IPSL Earth System model using tree rings. 
 
 <!--Currently, I am a laureate of the [Make Our Planet Great Again (MOPGA)](https://www.campusfrance.org/fr/system/files/medias/documents/2018-07/Laur%C3%A9ats%20Post%20doctorat%20MOPGA%20Final.pdf) program created by the French Government to find creative solutions for climate change. In the framework of this program I seek to improve the [terrestrial component](https://bg.copernicus.org/preprints/bg-2020-446/) of an Earth System model at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE, Paris).--> 
 
