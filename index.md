@@ -36,7 +36,7 @@ The moment has come. I seek a vibrant and inclusive institution to develop my ER
 2019--2021 Laureate of the French presidential program of scientific research [Make Our Planet Great
 Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
 
-### Hiring my team
+### HIRING my team
 I am hiring my team to work in my ERC starting grant. I look for a motivated technician, 2 postdocs and 1 PhD student. Please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?) with the subject CATES TEAM HIRING if you are interested in joining us.
 
 ### ERC starting grant CATES
