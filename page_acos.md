@@ -30,6 +30,10 @@
 
 > Sub-hourly dendrometer and sapflow measurements in the footprint of the flux tower.
 
+<img src="images/fig03_pheno_v3_clean.png?raw=true"/>
+
+> Biological clocks of a coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
+
 
 
 <!--
