@@ -32,7 +32,7 @@
 
 <img src="images/fig03_pheno_v3_clean.png?raw=true"/>
 
-> Biological clocks of a coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
+> Biological clocks of our coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
 
 
 
