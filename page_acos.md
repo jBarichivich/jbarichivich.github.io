@@ -35,6 +35,14 @@
 > Biological clocks of our coniferous rainforest ecosystem in southern Chile as revealed by simultaneous eddy covariance and cambial growth monitoring.
 
 
+<img src="images/fig01b_ACOS_CARBON_FLUXES_SUMMARY_gC_smoothed.png?raw=true"/>
+
+> Seasonal variation of carbon fluxes along with atmospheric and soil dryness during the 2018-2021 period.
+
+
+
+
+
 
 <!--
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
