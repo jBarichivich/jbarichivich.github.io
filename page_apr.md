@@ -1,4 +1,4 @@
-## Renaturalización: un pacto con la naturaleza
+## Renaturalización: un pacto con la naturaleza para conservar el agua
 
 <img src="images/fig05_manual_apr.png?raw=true"/>
 
