@@ -61,15 +61,18 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 
 ### Latest talk
 
-
 <!-- 
 ** Embed youtube video in GitHub pages (see near bottom answer; copy embedding code from youtube Share): https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages
 **Get embedding link from yoiutube and remove "https" from link, works in firefox but not in other browsers!!! 
 see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embedding-causes-warning-in-firefox -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> August 2021, Invited talk at WSL, Switzerland.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Invited Talk, 50th Anniversary of the Climatic Research Unit (CRU), Norwich, UK
+
+<!-- SUIZA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> August 2021, Invited talk at WSL, Switzerland. -->
 
 ### Latest datasets
 - [2021: Global self-calibrating Palmer Drought Severity Index dataset (CRUTS-scPDSI)](https://crudata.uea.ac.uk/cru/data/drought/)
