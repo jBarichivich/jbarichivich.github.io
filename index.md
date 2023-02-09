@@ -16,7 +16,7 @@ The moment has come. I seek a vibrant and inclusive institution to develop my ER
 
 ### My work in the media
 
-<iframe width="500" height="722" scrolling="no" frameborder="0" src="https://www.bbc.com/reel/embed/p0f0nyhm"></iframe>
+<iframe width="560" height="315" scrolling="no" frameborder="0" src="https://www.bbc.com/reel/embed/p0f0nyhm"></iframe>
 
 - Coverage of our science-art collaboration [Lañilawal](https://arquitectura-artes.uach.cl/la-creacion-artistica-y-la-ciencia-llevan-al-alerce-milenario-al-festival-de-arte-electronico-mas-importante-del-mundo/) in [Ars Electronica 2022](https://ars.electronica.art/planetb/de/lanilawal/) - Welcome to Planet B, Linz, Austria, 7-11 September 2022.
 - Opinion piece in [El Mostrador](https://www.elmostrador.cl/cultura/2022/09/10/la-urgencia-de-proteger-legalmente-los-ultimos-arboles-monumentales-de-chile/) about the need to conserve the remarkable trees in the Chilean rainforest, 10 September 2022. 
