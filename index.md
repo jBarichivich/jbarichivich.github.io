@@ -90,7 +90,7 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 - [Alerce Costero Rainforest observatory (CL-ACF Ameriflux)](page_acos.md)
 - [Rural Water Supply Committee of Mashue](page_apr.md)
 
-### Science for people & Events
+### Science for people
 
 **Renaturalización**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EZSDaHZ-uDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
