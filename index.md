@@ -90,14 +90,13 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 - [Alerce Costero Rainforest observatory (CL-ACF Ameriflux)](page_acos.md)
 - [Rural Water Supply Committee of Mashue](page_apr.md)
 
-### Events
-- [8 mayo 2022: Primer encuentro de ciencia ciudadana y saberes del sur en Los Alerzales de la Füta Mawida, La Unión, Chile](event.md)
-
-### Science for people
+### Science for people & Events
 
 **Renaturalización**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EZSDaHZ-uDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**Citizen science**
+- [8 mayo 2022: Primer encuentro de ciencia ciudadana y saberes del sur en Los Alerzales de la Füta Mawida, La Unión, Chile](event.md)
 
 ### Research areas
 
