@@ -80,7 +80,8 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 > August 2021, Invited talk at WSL, Switzerland. -->
 
 ### Latest datasets
-- [2021: Global self-calibrating Palmer Drought Severity Index dataset (CRUTS-scPDSI)](https://crudata.uea.ac.uk/cru/data/drought/)
+- [2023: Daily micrometeorology and carbon fluxes of the Ameriflux eddy covariance site CL-ACF in the Alerce Costero National Park 2018-2021 ](https://doi.org/10.5281/zenodo.7539231)
+- [2022: Global self-calibrating Palmer Drought Severity Index dataset 1901-2021 (CRUTS-scPDSI)](https://crudata.uea.ac.uk/cru/data/drought/)
 - [2021: Triple tree-ring constraint for models (data and code)](https://zenodo.org/record/4992981)
 - [2021: High-resolution drought Atlas for the Southern Andes (SADITA)](https://github.com/jBarichivich/SADITA)
 - [2021: South American Drought Atlas (SADA)](https://sada.cr2.cl/)
