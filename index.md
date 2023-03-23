@@ -11,12 +11,9 @@ I am Research Professor (Directeur de Recherche) of the Centre National de la Re
 
 My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), UK ([CRU](https://lr1.uea.ac.uk/cru/staff-and-students) and [University of Leeds](https://environment.leeds.ac.uk/geography)) and South America ([Austral University of Chile](http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/academicos/jonathan-barichivich.php), [University of Chile](https://www.bosqueciencialab.org/vegetation-dynamics), [Pontificial Catholic University of Valparaíso](https://www.pucv.cl/uuaa/site/edic/base/port/dendrolab.html)). Here I collaborate with colleagues on pressing global change questions using a diverse set of observations and models.
 
-<!--### Battling the science game: Looking for a permanent institution
-The moment has come. I seek a vibrant and inclusive institution to develop my ERC starting grant CATES with a cross-scale research program on the Earth system, biosphere and society. If you are interested in my broad scientific perspective please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?)-->
-
 ### My work in the media
 
-<iframe width="560" height="315" src="https://www.bbc.com/reel/embed/p0f0nyhm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 > BBC Climate Change: The 5,000-year-old tree that holds clues to life and death.
 
 - Coverage of our science-art collaboration [Lañilawal](https://arquitectura-artes.uach.cl/la-creacion-artistica-y-la-ciencia-llevan-al-alerce-milenario-al-festival-de-arte-electronico-mas-importante-del-mundo/) in [Ars Electronica 2022](https://ars.electronica.art/planetb/de/lanilawal/) - Welcome to Planet B, Linz, Austria, 7-11 September 2022.
