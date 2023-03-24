@@ -13,7 +13,7 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 
 ### My work in the media
 
-<iframe width="500" height="450" scrolling="no" frameborder="0" src="https://www.bbc.com/reel/embed/p0f0nyhm"></iframe>
+<iframe width="500" height="450" scrolling="yes" frameborder="0" src="https://www.bbc.com/reel/embed/p0f0nyhm"></iframe>
 > BBC Climate Change: The 5,000-year-old tree that holds clues to life and death. ok raw4
 
 - Coverage of our science-art collaboration [Lañilawal](https://arquitectura-artes.uach.cl/la-creacion-artistica-y-la-ciencia-llevan-al-alerce-milenario-al-festival-de-arte-electronico-mas-importante-del-mundo/) in [Ars Electronica 2022](https://ars.electronica.art/planetb/de/lanilawal/) - Welcome to Planet B, Linz, Austria, 7-11 September 2022.
