@@ -46,11 +46,11 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 <iframe width="560" height="315" src="https://www.bbc.com/reel/embed/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> BBC documentary (2023). [Direct link here](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death).
+> BBC Climate Change (2023). [Direct link here](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBHQ4HnrxO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> Aljazeera documentary (2022).
+> Aljazeera Planet SOS (2022).
 
 <!-- SUIZA 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
