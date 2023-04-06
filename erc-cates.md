@@ -19,6 +19,8 @@ We have two positions open for CATES at this moment:
 
 We are looking for a postdoctoral researcher interested in tree-ring modeling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current models. 
 
+<img src="images/treerings_ways_lsm.png?raw=true"/>
+
 The Postdoc will develop a module of wood formation (xylogenesis) and integrate it with recent developments to jointly represent [tree-ring width with water and carbon stable isotopes in ORCHIDEE](https://bg.copernicus.org/articles/18/3781/2021/bg-18-3781-2021.html). Then, the improved model will be validated using multiple tree-ring data together with carbon and water fluxes. The pioneering research will improve the simulation and validation of the environmental sensitivity of woody biomass growth and density in a global model, enabling a better quantification of the climate feedbacks of altered tree growth and physiology with global changes. The position will be open until filled for a fixed-term period of 24 months, with a possible extension based on performance by up to two more years. 
 
 The successful candidate should have excellent quantitative and scientific programming skills (Fortran, Linux, supercomputers), a PhD in an appropriated subject (ecology, environmental sciences, physics, mathematics, engineering or related fields), ability to work well with others and independently, good oral and written English skills. Modelling experience or process-based understanding of tree growth is highly desirable.
@@ -27,7 +29,6 @@ A full description of the position and requirements is [here](https://sharebox.l
 Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-001/Default.aspx?lang=EN).
 For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". 
 
-<img src="images/treerings_ways_lsm.png?raw=true"/>
 
 **Technician for tree-ring laboratory (LSCE, Paris)**
 
