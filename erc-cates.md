@@ -15,14 +15,15 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 ### OPEN POSITIONS
 We have two positions open at this moment:
 
-## Postdoc on tree-ring modelling
+## Postdoc on tree-ring modelling (LSCE, Paris)
 We are looking for a postdoctoral researcher interested in tree-ring modeling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current models. 
 
 The Postdoc will develop a module of wood formation (xylogenesis) and integrate it with recent developments to jointly represent [tree-ring width with water and carbon stable isotopes in ORCHIDEE](https://bg.copernicus.org/articles/18/3781/2021/bg-18-3781-2021.html). Then, the improved model will be validated using multiple tree-ring data together with carbon and water fluxes. The pioneering research will improve the simulation and validation of the environmental sensitivity of woody biomass growth and density in a global model, enabling a better quantification of the climate feedbacks of altered tree growth and physiology with global changes. The position will be open until filled for a fixed-term period of 24 months, with a possible extension based on performance by up to two more years. A full description of the position and requirements is [here](https://sharebox.lsce.ipsl.fr/index.php/s/18xKa3Sy7sFaBVW)
+Applications should be submitted [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-001/Default.aspx?lang=EN)
 
 
 
-## Technician for tree-ring laboratory
+## Technician for tree-ring laboratory (LSCE, Paris)
 A full description of the position is [here](https://sharebox.lsce.ipsl.fr/index.php/s/YjuLfpqtjzat5AK)
 
 <!--I am hiring my team for the CATES ERC starting grant. I look for a motivated technician, 2 postdocs and 1 PhD student. Please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?) with the subject CATES TEAM HIRING if you are interested in joining us. We are hiring a postdoc on tree-ring modelling and an experienced technician for the tree-ring laboratory.-->
