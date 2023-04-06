@@ -16,12 +16,13 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 We have two positions open at this moment:
 
 ## Postdoc on tree-ring modelling
-We are hiring a postdoc on tree-ring modelling and an experienced technician for the tree-ring laboratory.
-
-## Technician for tree-ring laboratory
 Looking for a postdoctoral researcher interested in tree-ring modeling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model by introducing the process of wood formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current models. 
 
-<!--I am hiring my team for the CATES ERC starting grant. I look for a motivated technician, 2 postdocs and 1 PhD student. Please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?) with the subject CATES TEAM HIRING if you are interested in joining us.-->
+
+
+## Technician for tree-ring laboratory
+
+<!--I am hiring my team for the CATES ERC starting grant. I look for a motivated technician, 2 postdocs and 1 PhD student. Please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?) with the subject CATES TEAM HIRING if you are interested in joining us. We are hiring a postdoc on tree-ring modelling and an experienced technician for the tree-ring laboratory.-->
 
 
 
