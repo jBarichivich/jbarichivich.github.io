@@ -13,6 +13,14 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 <!--The following three objectives are addressed: (1) advance the mechanistic representation of tree-ring growth and stable isotopes in the global LSM ORCHIDEE, the terrestrial component of the IPSL ESM; (2) use tree-ring data together with eddy covariance flux measurements to improve the capability of the model to simulate the effects of changing climate, CO2 and nitrogen on forest growth and WUE; (3) provide the first climate simulations until 2100 constrained by historical forest responses. The constrained projections will reduce uncertainties on the feedbacks of altered tree growth and physiology on climate.--> 
 
 ### OPEN POSITIONS
+We have two positions open at this moment:
+
+## Postdoc on tree-ring modelling
+We are hiring a postdoc on tree-ring modelling and an experienced technician for the tree-ring laboratory.
+
+## Technician for tree-ring laboratory
+
+
 <!--I am hiring my team for the CATES ERC starting grant. I look for a motivated technician, 2 postdocs and 1 PhD student. Please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?) with the subject CATES TEAM HIRING if you are interested in joining us.-->
 
 
