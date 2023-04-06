@@ -16,7 +16,7 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 We have two positions open at this moment:
 
 ## Postdoc on tree-ring modelling
-Looking for a postdoctoral researcher interested in tree-ring modeling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model by introducing the process of wood formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current models. 
+We are looking for a postdoctoral researcher interested in tree-ring modeling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model by introducing the process of wood formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current models. 
 
 
 
