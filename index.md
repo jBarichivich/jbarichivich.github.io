@@ -40,7 +40,11 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 Again (MOPGA)](https://www.campusfrance.org/en/make-our-planet-great-again-en), Paris, France.
 
 ### ERC starting grant CATES
+> 1.5 M€ to improve climate change projections using the memory of the world's trees in 5 years (2022--2026)
 
+<img src="images/ERC2_CNRS.png?raw=true"/>
+
+[WE ARE HIRING. More information here:](erc-cates.md)
 
 ### Latest research
 > The ancient Alerce Milenario monumental tree in southern Chile is LIKELY more than 5000 years old. This would make it ONE of the oldest LIVING trees on Earth as commented in [Science](https://www.science.org/content/article/world-s-oldest-tree-growing-ravine-chile). The paper is coming.
