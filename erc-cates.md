@@ -18,6 +18,8 @@ We have two positions open at this moment:
 ## Postdoc on tree-ring modelling
 We are looking for a postdoctoral researcher interested in tree-ring modeling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model by introducing the process of wood formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current models. 
 
+The work will use the well-established ORCHIDEE model (https://orchidee.ipsl.fr/), including recent developments to jointly represent tree-ring width with water and carbon stable isotopes. The research will consolidate these developments to improve the simulation and validation of the environmental sensitivity of woody biomass growth and density in global models, enabling a better quantification of the climate feedbacks of altered tree growth and physiology with global changes. The position will be open until filled for a fixed-term period of 24 months, with a possible extension based on performance by up to two more years.
+
 
 
 ## Technician for tree-ring laboratory
