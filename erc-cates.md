@@ -28,7 +28,12 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 
 ## Technician for tree-ring laboratory (LSCE, Paris)
-A full description of the position is [here](https://sharebox.lsce.ipsl.fr/index.php/s/YjuLfpqtjzat5AK)
+We are seeking a tree-ring lab technician for a fixed-term position of 36 months, with a possible extension based on performance. The position requires experience in laboratory techniques for stable isotopes, tissue processing or quantitative wood anatomy, and the ability to manage wood and sample collections, measure carbon and oxygen stable isotopes, measure samples for xylogenesis and assist during field campaigns and tree growth monitoring in Europe, US, and South America. 
+
+A full description of the position and requirements is [here](https://sharebox.lsce.ipsl.fr/index.php/s/YjuLfpqtjzat5AK).
+Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-002/Default.aspx?lang=EN).
+For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". 
+
 
 <!--I am hiring my team for the CATES ERC starting grant. I look for a motivated technician, 2 postdocs and 1 PhD student. Please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?) with the subject CATES TEAM HIRING if you are interested in joining us. We are hiring a postdoc on tree-ring modelling and an experienced technician for the tree-ring laboratory.-->
 
