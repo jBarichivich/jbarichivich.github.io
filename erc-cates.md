@@ -27,6 +27,7 @@ A full description of the position and requirements is [here](https://sharebox.l
 Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-001/Default.aspx?lang=EN).
 For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". 
 
+<img src="images/treerings_ways_lsm.png?raw=true"/>
 
 **Technician for tree-ring laboratory (LSCE, Paris)**
 
