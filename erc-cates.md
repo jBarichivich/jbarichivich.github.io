@@ -42,16 +42,11 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 <!--I am hiring my team for the CATES ERC starting grant. I look for a motivated technician, 2 postdocs and 1 PhD student. Please email me at [Dr. Jonathan Barichivich](mailto:campsidium@gmail.com?) with the subject CATES TEAM HIRING if you are interested in joining us. We are hiring a postdoc on tree-ring modelling and an experienced technician for the tree-ring laboratory.-->
 
 
-### CATES IN PRESENTATIONS AND THE PRESS
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MdYkDk0-Uns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-> Invited Talk, 50th Anniversary of the Climatic Research Unit (CRU), Norwich, UK
-
+### CATES IN THE GLOBAL MEDIA
 
 <iframe width="560" height="315" src="https://www.bbc.com/reel/playlist/p08sv3xl/video/p0f0nyhm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> BBC documentary (2023).[Direct link here](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death).
+> BBC documentary (2023). [Direct link here](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBHQ4HnrxO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -60,5 +55,12 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 <!-- SUIZA 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p38PHroeZ_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > August 2021, Invited talk at WSL, Switzerland. -->
+
+
+### TALKS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MdYkDk0-Uns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> Invited Talk, 50th Anniversary of the Climatic Research Unit (CRU), Norwich, UK
 
 
