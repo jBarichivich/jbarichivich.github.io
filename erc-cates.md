@@ -44,7 +44,7 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 ### CATES IN THE GLOBAL MEDIA
 
-<iframe width="560" height="315" src="https://www.bbc.com/reel/playlist/p08sv3xl/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.bbc.com/reel/embed/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 > BBC documentary (2023). [Direct link here](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death).
 
