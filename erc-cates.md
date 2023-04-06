@@ -8,7 +8,7 @@ I am hiring my team for the CATES ERC starting grant. I look for a motivated tec
 
 **3 minute pitch** [here](https://youtu.be/PJB53PxxH5A)
 
-**Plain language project description** [here](https://www.iledefrance-gif.cnrs.fr/fr/personne/jonathan-barichivich)
+**Plain language project description** [here](https://www.universite-paris-saclay.fr/en/news/reading-tree-cores-better-predict-global-warming)
 
 **Summary**
 
