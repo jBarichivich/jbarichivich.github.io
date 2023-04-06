@@ -49,7 +49,7 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 > Invited Talk, 50th Anniversary of the Climatic Research Unit (CRU), Norwich, UK
 
 
-<iframe width="560" height="315" src="https://www.bbc.com/reel/embed/p0f0nyhm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.bbc.com/reel/embed/p0f0nyhm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 > BBC documentary (2023).
 
