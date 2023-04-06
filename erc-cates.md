@@ -24,7 +24,7 @@ The successful candidate should have excellent quantitative and scientific progr
 
 A full description of the position and requirements is [here](https://sharebox.lsce.ipsl.fr/index.php/s/18xKa3Sy7sFaBVW).
 Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-001/Default.aspx?lang=EN).
-For inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". 
+For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". 
 
 
 ## Technician for tree-ring laboratory (LSCE, Paris)
