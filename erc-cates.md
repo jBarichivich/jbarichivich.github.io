@@ -23,7 +23,7 @@ The Postdoc will develop a module of wood formation (xylogenesis) and integrate 
 The successful candidate should have excellent quantitative and scientific programming skills (Fortran, Linux, supercomputers), a PhD in an appropriated subject (ecology, environmental sciences, physics, mathematics, engineering or related fields), ability to work well with others and independently, good oral and written English skills. Modelling experience or process-based understanding of tree growth is highly desirable.
 
 A full description of the position and requirements is [here](https://sharebox.lsce.ipsl.fr/index.php/s/18xKa3Sy7sFaBVW).
-Applications should be submitted [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-001/Default.aspx?lang=EN).
+Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-001/Default.aspx?lang=EN).
 
 
 
