@@ -32,7 +32,9 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 **Technician for tree-ring laboratory (LSCE, Paris)**
 
-We are seeking a tree-ring lab technician for a fixed-term position of 36 months, with a possible extension based on performance. The position requires experience in laboratory techniques for stable isotopes, tissue processing or quantitative wood anatomy, and the ability to manage wood and sample collections, measure carbon and oxygen stable isotopes, measure samples for xylogenesis and assist during field campaigns and tree growth monitoring in Europe, US, and South America. 
+We are seeking a tree-ring lab technician for a fixed-term position of 36 months, with a possible extension based on performance. The position requires experience in laboratory techniques for stable isotopes, tissue processing or quantitative wood anatomy, and the ability to manage wood and sample collections, measure carbon and oxygen stable isotopes, measure samples for xylogenesis and assist during field campaigns and tree growth monitoring in Europe, US, and South America.
+
+<img src="images/alerce_rings.png?raw=true"/>
 
 A full description of the position and requirements is [here](https://sharebox.lsce.ipsl.fr/index.php/s/YjuLfpqtjzat5AK).
 Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-002/Default.aspx?lang=EN).
