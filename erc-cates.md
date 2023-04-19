@@ -46,6 +46,14 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 ### CATES IN THE GLOBAL MEDIA
 
+<video width="640" height="360" controls>
+  <source src="https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" type="video/mp4">
+  <!-- You can add more source tags with different file formats for compatibility -->
+  <!-- For example: -->
+  <!-- <source src="https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" type="video/webm"> -->
+  <!-- <source src="https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" type="video/ogg"> -->
+</video>
+
 <iframe width="560" height="315" src="https://www.bbc.com/reel/embed/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 > BBC Climate Change (2023). [Direct link here](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death).
