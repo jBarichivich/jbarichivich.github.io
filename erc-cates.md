@@ -49,8 +49,7 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 <!-- <source src="https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" type="video/webm"> -->
 
-[![asciicast](https://asciinema.org/a/113463.png)]([https://asciinema.org/a/113463](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death))
-
+[![BBC Video Thumbnail](images/alerce_rings.png?raw=true)](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death)
 > test3...
 
 
