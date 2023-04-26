@@ -17,7 +17,7 @@ We have two positions open for CATES at this moment:
 
 **Postdoc on tree-ring modelling (LSCE, Paris)**
 
-We are looking for a postdoctoral researcher interested in tree-ring modeling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current models. 
+We are looking for a postdoctoral researcher interested in tree-ring modeling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current global carbon cycle models. 
 
 <img src="images/treerings_ways_lsm.png?raw=true"/>
 
