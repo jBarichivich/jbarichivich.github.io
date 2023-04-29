@@ -17,5 +17,5 @@ Reparar siglos de destrucción y degradación ambiental no es fácil. Existen
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EZSDaHZ-uDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Ponencia plenaria en VIII Congreso de Ciencias Forestales de Chile (9 Nov. 2022)
+## Ponencia plenaria en VIII Congreso Chileno de Ciencias Forestales (9 Nov. 2022)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AqWO-RJNSKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
