@@ -88,7 +88,7 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 - [8 mayo 2022: Primer encuentro de ciencia ciudadana y saberes del sur en Los Alerzales de la Füta Mawida, La Unión, Chile](event.md)
 
 ### OPEN SCIENCE
-Perez-Quezada, J., Barichivich, J. et al. ["Warming and drought weaken carbon sink in South American temperate rainforest."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614759/) [JGR: Biogeosciences, [2023].
+Perez-Quezada, J., Barichivich, J. et al. ["Warming and drought weaken carbon sink in South American temperate rainforest."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614759/). JGR: Biogeosciences, [2023].
 
 ### Research areas
 
