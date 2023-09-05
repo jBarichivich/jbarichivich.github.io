@@ -88,7 +88,7 @@ see response -1: https://stackoverflow.com/questions/14820486/youtube-https-embe
 - [8 mayo 2022: Primer encuentro de ciencia ciudadana y saberes del sur en Los Alerzales de la Füta Mawida, La Unión, Chile](event.md)
 
 ### OPEN SCIENCE
-Perez-Quezada, J., Barichivich, J. et al. ["Warming and drought weaken carbon sink in South American temperate rainforest."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614759/). JGR: Biogeosciences, [2023]. Research highlight in [Issue Cover](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/jgrg.22241)
+Perez-Quezada, J., Barichivich, J. et al. ["Warming and drought weaken the carbon sink capacity of an endangered paleoendemic temperate rainforest in South America."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614759/). JGR: Biogeosciences, [2023]. Research highlighted in the [cover of JGR: Biogeosciences Vol 128, Issue 4](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/jgrg.22241)
 
 Urrutia-Jalabert, R., Barichivich, J. et al. ["Ecophysiological responses of Nothofagus obliqua forests to recent climate drying across the Mediterranean-Temperate biome transition in south-central Chile"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614787/). JGR: Biogeosciences, [2023]. Research Spotlight in EOS: [Short-Lived Solutions for Tall Trees in Chile’s Megadrought](https://eos.org/research-spotlights/short-lived-solutions-for-tall-trees-in-chiles-megadrought) 
 
