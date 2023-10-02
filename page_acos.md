@@ -47,6 +47,9 @@
 
 
 ### Scientific publications
+
+<img src="images/JGR_cover.png?raw=true" width="200" />
+
 Perez-Quezada, J., Barichivich, J. et al. ["Warming and drought weaken the carbon sink capacity of an endangered paleoendemic temperate rainforest in South America."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614759/). JGR: Biogeosciences, [2023].
 
 
