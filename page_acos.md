@@ -2,7 +2,7 @@
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8a5sc9?autoplay=1" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" allow="autoplay"> </iframe> </div>
 
-**Project description:** [CL-ACF](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) is an AmeriFlux-affiliated monitoring site active since 2018. It has a flux tower located in an old-growth Fitzroya cupressoides coniferous rainforest (~300 years) at the Alerce Costero National Park at 980 m asl. Fitzroya is an endangered paleoendemic species of the temperate rainforest that is threatened by the ongoing warming and drying of the climate.
+**Project description:** [CL-ACF](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) is an AmeriFlux-affiliated monitoring site active since 2018. It has a flux tower surrounded by an array of environmental monitoring (dendrometers, met stations, sapflow, streamflow) in an old-growth Fitzroya cupressoides coniferous rainforest (~300 years) at the Alerce Costero National Park at 980 m asl. Fitzroya is an endangered paleoendemic species of the temperate rainforest that thrives in a cool and wet climate and that is threatened by the ongoing warming and drying of the climate.
 
 ![My Remote Image](https://phenocam.nau.edu/data/latest/alercecosteroforest.jpg?dl=0)
 > Current view of the site from PhenoCam.
