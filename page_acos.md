@@ -43,6 +43,8 @@
 
 > Seasonal variation of carbon fluxes along with atmospheric and soil dryness during the 2018-2021 period.
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8a5sc9?autoplay=1" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" allow="autoplay"> </iframe> </div>
+
 ### Scientific publications
 Perez-Quezada, J., Barichivich, J. et al. ["Warming and drought weaken carbon sink in South American temperate rainforest."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614759/). JGR: Biogeosciences, [2023].
 
