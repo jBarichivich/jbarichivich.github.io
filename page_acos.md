@@ -1,6 +1,6 @@
 ## Alerce Costero rainforest monitoring supersite
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8a5sc9?autoplay=1" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" allow="autoplay"> </iframe> </div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8a5sc9" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" > </iframe> </div>
 
 **Project description:** The [CL-ACF](https://ameriflux.lbl.gov/sites/siteinfo/CL-ACF) research site in southern Chile (Alerce Costero National Park) is an environmental observatory of an old-growth Fitzroya cupressoides coniferous rainforest (~300 years). The site has been active since 2018 and is affiliated with the AmeriFlux network of flux towers. Central to this site is a flux tower of 36 m, complemented by an array of environmental monitoring systems including dendrometers, meteorological stations, sapflow, and a streamflow gauge. Fitzroya is an endangered paleoendemic species of the temperate rainforest that thrives in a cool and wet climate. The species face imminent threats from the ongoing warming and drying of the climate.
 
