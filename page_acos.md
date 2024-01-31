@@ -7,6 +7,9 @@
 ![My Remote Image](https://phenocam.nau.edu/data/latest/alercecosteroforest.jpg?dl=0)
 > Current view of the site from PhenoCam.
 
+<img src="images/ACF_thermal_alerce_tree01.png?raw=true"/>
+
+> Thermal view of the Fitzroya forest.
 
 ### 1. Site setup
 
@@ -44,10 +47,6 @@
 <img src="images/fig01b_ACOS_CARBON_FLUXES_SUMMARY_gC_smoothed.png?raw=true"/>
 
 > Seasonal variation of carbon fluxes along with atmospheric and soil dryness during the 2018-2021 period.
-
-<img src="images/ACF_thermal_alerce_tree01.png?raw=true"/>
-
-> Thermal view of the Fitzroya forest.
 
 
 ### Scientific publications
