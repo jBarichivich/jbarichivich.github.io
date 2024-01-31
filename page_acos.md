@@ -45,6 +45,10 @@
 
 > Seasonal variation of carbon fluxes along with atmospheric and soil dryness during the 2018-2021 period.
 
+<img src="images/ACF_thermal_alerce_tree01.png?raw=true"/>
+
+> Thermal view of the Fitzroya forest.
+
 
 ### Scientific publications
 
