@@ -32,6 +32,10 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 **PhD studentship on whole-tree growth phenology (LSCE, Paris)**
 ...coming soon.
 
+**Internships**
+[Modelling the future of ancient temperate rainforests under climate drying](https://sharebox.lsce.ipsl.fr/index.php/s/18xKa3Sy7sFaBVW)
+ 
+
 <!--
 **Technician for tree-ring laboratory (LSCE, Paris)**
 
