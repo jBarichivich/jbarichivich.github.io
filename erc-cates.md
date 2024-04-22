@@ -15,8 +15,8 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 ### OPEN POSITIONS
 We have two positions open for CATES at this moment:
 
-**Postdoc on tree growth modelling (LSCE, Paris)**
-<!--We are looking for a postdoctoral researcher interested in tree growth modelling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood and tree-ring formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current global carbon cycle models. 
+<!-- **Postdoc on tree growth modelling (LSCE, Paris)**
+We are looking for a postdoctoral researcher interested in tree growth modelling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood and tree-ring formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current global carbon cycle models. 
 
 <img src="images/treerings_ways_lsm.png?raw=true"/>
 
@@ -29,8 +29,9 @@ Applications should be submitted through the CNRS job portal [here](https://empl
 For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". -->
 
 **PHD STUDENTSHIPS**
-
 - [PhD studentship on Ecological modelling with ORCHIDEE](lalala). Extend the ability of a modern global land surface model to simulate forest growth and transpiration with innovative tree-ring data. Join the CATES project to reduce uncertainties in Earth system feedbacks. [Apply by May 13, 2024](https://emploi.cnrs.fr/Offres/Doctorant/UMR8212-JONBAR-004/Default.aspx?lang=EN)
+
+- [PhD studentship in root dendrochronology](lalala). Extend the ability of a modern global land surface model to simulate forest growth and transpiration with innovative tree-ring data. Join the CATES project to reduce uncertainties in Earth system feedbacks. [Apply by May 13, 2024](https://emploi.cnrs.fr/Offres/Doctorant/UMR8212-JONBAR-004/Default.aspx?lang=EN)
 
 **INTERNSHIPS**
 
