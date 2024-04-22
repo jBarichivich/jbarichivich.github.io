@@ -29,8 +29,9 @@ A full description of the position and requirements is [here](https://sharebox.l
 Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-003/Default.aspx?lang=EN).
 For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". 
 
-**PhD studentship on Ecological modelling with ORCHIDEE**
-Extend the ability of a modern global land surface model to simulate forest growth and transpiration with innovative tree-ring data. Join the CATES project to reduce uncertainties in Earth system feedbacks. [Apply by May 13, 2024](https://emploi.cnrs.fr/Offres/Doctorant/UMR8212-JONBAR-004/Default.aspx?lang=EN)
+**PHD STUDENTSHIPS**
+
+- [PhD studentship on Ecological modelling with ORCHIDEE](lalala). Extend the ability of a modern global land surface model to simulate forest growth and transpiration with innovative tree-ring data. Join the CATES project to reduce uncertainties in Earth system feedbacks. [Apply by May 13, 2024](https://emploi.cnrs.fr/Offres/Doctorant/UMR8212-JONBAR-004/Default.aspx?lang=EN)
 
 **INTERNSHIPS**
 
