@@ -16,8 +16,7 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 We have two positions open for CATES at this moment:
 
 **Postdoc on tree growth modelling (LSCE, Paris)**
-
-We are looking for a postdoctoral researcher interested in tree growth modelling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood and tree-ring formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current global carbon cycle models. 
+<!--We are looking for a postdoctoral researcher interested in tree growth modelling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood and tree-ring formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current global carbon cycle models. 
 
 <img src="images/treerings_ways_lsm.png?raw=true"/>
 
@@ -27,7 +26,7 @@ The successful candidate should have excellent quantitative and scientific progr
 
 A full description of the position and requirements is [here](https://sharebox.lsce.ipsl.fr/index.php/s/18xKa3Sy7sFaBVW).
 Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-003/Default.aspx?lang=EN).
-For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". 
+For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". -->
 
 **PHD STUDENTSHIPS**
 
@@ -36,7 +35,7 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 **INTERNSHIPS**
 
 - [Modelling the future of ancient temperate rainforests under climate drying:](https://sharebox.lsce.ipsl.fr/index.php/s/18xKa3Sy7sFaBVW)
-This internship offers the opportunity to get involved in cutting-edge research on the impacts of climate change on ancient South American temperate rainforests, utilizing eddy-covariance flux measurements to implement and improve the land surface model ORCHIDEE, and contribute to understanding the future vulnerability of these threatened rainforests.
+This internship offers the opportunity to get involved in cutting-edge research on the impacts of climate change on ancient South American temperate rainforests, utilizing eddy-covariance flux measurements to implement and improve the land surface model ORCHIDEE, and contribute to understanding the future vulnerability of these threatened rainforests. For applications please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES INTERNSHIP".
 
 <!--
 **Technician for tree-ring laboratory (LSCE, Paris)**
