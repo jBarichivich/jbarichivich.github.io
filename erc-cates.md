@@ -29,8 +29,8 @@ A full description of the position and requirements is [here](https://sharebox.l
 Applications should be submitted through the CNRS job portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR8212-JONBAR-003/Default.aspx?lang=EN).
 For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CATES HIRING". 
 
-**PhD studentship on whole-tree growth phenology (LSCE, Paris)**
-...coming soon.
+**PhD studentship on Ecological modelling with ORCHIDEE**
+Enhancing global land surface modelling with tree-ring data to improve forest growth and transpiration simulations. Join the CATES project to reduce uncertainties in Earth system feedbacks. [Apply by May 13, 2024](https://emploi.cnrs.fr/Offres/Doctorant/UMR8212-JONBAR-004/Default.aspx?lang=EN)
 
 **INTERNSHIPS**
 
