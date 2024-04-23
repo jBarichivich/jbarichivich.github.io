@@ -40,7 +40,7 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 This internship offers the opportunity to get involved in cutting-edge research on the impacts of climate change on ancient South American temperate rainforests, utilizing eddy-covariance flux measurements to implement and improve the land surface model ORCHIDEE, and contribute to our understanding of the future vulnerability of these threatened rainforests. For applications please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "RAINFOREST".
 
 - **Ecological coding: Implementing a legacy model of tree growth ecology in python**.
-Rewrite a fortran77 code of a tree-ring growth model into modern Python and test it in a supersite. Requires programming skills in python.
+Rewrite a fortran77 code of a tree-ring growth model into modern Python and test it in a supersite. Requires programming skills in python. For applications please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "CODING".
 
 
 <!--
