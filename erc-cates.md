@@ -13,7 +13,7 @@ Forests cover a third of the vegetated surface of the Earth and interact with gl
 <!--The following three objectives are addressed: (1) advance the mechanistic representation of tree-ring growth and stable isotopes in the global LSM ORCHIDEE, the terrestrial component of the IPSL ESM; (2) use tree-ring data together with eddy covariance flux measurements to improve the capability of the model to simulate the effects of changing climate, CO2 and nitrogen on forest growth and WUE; (3) provide the first climate simulations until 2100 constrained by historical forest responses. The constrained projections will reduce uncertainties on the feedbacks of altered tree growth and physiology on climate.--> 
 
 ### OPEN POSITIONS
-We have two positions open for CATES at this moment:
+We have two PhD positions open in CATES at this moment:
 
 <!-- **Postdoc on tree growth modelling (LSCE, Paris)**
 We are looking for a postdoctoral researcher interested in tree growth modelling to improve global land surface models. The overall goal of the position is to improve the biology and environmental sensitivity of biomass growth in the ORCHIDEE global land surface model (https://orchidee.ipsl.fr/) by introducing the process of wood and tree-ring formation, which underpins carbon sequestration and wood traits. This process is central to dendrochronology but is missing in current global carbon cycle models. 
