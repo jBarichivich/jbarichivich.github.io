@@ -3,7 +3,7 @@
 
 <img src="images/ERC2_CNRS.png?raw=true"/>
 
-**3 minute pitch** [here](https://youtu.be/PJB53PxxH5A)
+<!--**3 minute pitch** [here](https://youtu.be/PJB53PxxH5A)-->
 
 **Plain language project description** [here](https://www.universite-paris-saclay.fr/en/news/reading-tree-cores-better-predict-global-warming)
 
@@ -64,6 +64,11 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 [![BBC Video Thumbnail](images/cover_bbc_video.png?raw=true)](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death)
 
 > BBC Climate Change (2023).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDnmxubj00k?si=uO454yuEYy5UEXK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> Discours au palais de l'Élysée (décembre 2023).
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBHQ4HnrxO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
