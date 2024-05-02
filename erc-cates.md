@@ -34,7 +34,7 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 - [PhD studentship in Root Dendrochronology](https://sharebox.lsce.ipsl.fr/index.php/s/cxcnskZiO3OZd9F). Expand the belowground forest research frontier using root growth rings. Help to uncover the hidden half of forests with CATES. [Apply by May 13, 2024](https://emploi.cnrs.fr/Offres/Doctorant/UMR8212-JONBAR-005/Default.aspx?lang=EN)
 
-**INTERNSHIPS**
+**INTERNSHIPS (students in France)**
 
 - [Modelling the future of ancient temperate rainforests under climate drying:](https://sharebox.lsce.ipsl.fr/index.php/s/QiznXnJ2dosSIyv)
 This internship offers the opportunity to get involved in cutting-edge research on the impacts of climate change on ancient South American temperate rainforests, utilizing eddy-covariance flux measurements to implement and improve the land surface model ORCHIDEE, and contribute to our understanding of the future vulnerability of these threatened rainforests. For applications please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) with the subject "RAINFOREST".
