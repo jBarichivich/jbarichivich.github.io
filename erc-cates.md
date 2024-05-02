@@ -65,11 +65,6 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 > BBC Climate Change (2023).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xDnmxubj00k?si=uO454yuEYy5UEXK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-> Discours au palais de l'Élysée (décembre 2023).
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBHQ4HnrxO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Aljazeera Planet SOS (2022).
@@ -88,6 +83,9 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 
 ### RECENT TALKS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDnmxubj00k?si=uO454yuEYy5UEXK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> Discours au palais de l'Élysée (décembre 2023).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MdYkDk0-Uns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
