@@ -14,11 +14,11 @@ My research team is distributed in France ([LSCE](https://www.lsce.ipsl.fr/)), U
 ### My work in the media
 
 [![BBC Video Thumbnail](images/cover_bbc_video.png?raw=true)](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death)
-> BBC Climate Change: The 5,000-year-old tree that holds clues to life and death.
+> BBC Climate Change: The 5,000-year-old tree that holds clues to life and death, 2023.
 
 
 [![DW Video Thumbnail](images/cover_dw_video.png?raw=true)](https://www.youtube.com/watch?v=DZut82fxqw4)
-> DW Protecting Lañilawal.
+>  Deutsche Welle: Protecting Lañilawal, 2025
 
 - Coverage of our science-art collaboration [Lañilawal](https://arquitectura-artes.uach.cl/la-creacion-artistica-y-la-ciencia-llevan-al-alerce-milenario-al-festival-de-arte-electronico-mas-importante-del-mundo/) in [Ars Electronica 2022](https://ars.electronica.art/planetb/de/lanilawal/) - Welcome to Planet B, Linz, Austria, 7-11 September 2022.
 - Opinion piece in [El Mostrador](https://www.elmostrador.cl/cultura/2022/09/10/la-urgencia-de-proteger-legalmente-los-ultimos-arboles-monumentales-de-chile/) about the need to conserve the remarkable trees in the Chilean rainforest, 10 September 2022. 
