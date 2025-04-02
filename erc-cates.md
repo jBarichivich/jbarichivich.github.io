@@ -60,6 +60,8 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 
 ### CATES IN THE GLOBAL MEDIA
 
+[![DW Video Thumbnail](images/cover_dw_video.png?raw=true)](https://www.youtube.com/watch?v=DZut82fxqw4)
+>  Deutsche Welle: Protecting Lañilawal, 2025.
 
 <!-- <source src="https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death" type="video/webm"> -->
 [![BBC Video Thumbnail](images/cover_bbc_video.png?raw=true)](https://www.bbc.com/reel/video/p0f0nyhm/the-5-000-year-old-tree-that-holds-clues-to-life-and-death)
