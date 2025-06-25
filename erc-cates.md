@@ -61,7 +61,7 @@ For any inquiries please [email me](mailto:jonathan.barichivich@lsce.ipsl.fr?) w
 ### CATES IN THE GLOBAL MEDIA
 
 <!SPANISH [![DW Video Thumbnail](images/cover_dw_video.png?raw=true)](https://www.youtube.com/watch?v=DZut82fxqw4)-->
-[![DW Video Thumbnail](images/cover_dw_video.png?raw=true)]([https://www.youtube.com/watch?v=DZut82fxqw4](https://www.dw.com/en/roots-of-resistance-defending-chiles-5000-year-old-tree/video-72492288)
+[![DW Video Thumbnail](images/cover_dw_video.png?raw=true)]([https://www.dw.com/en/roots-of-resistance-defending-chiles-5000-year-old-tree/video-72492288])
 
 >  Deutsche Welle: Protecting Lañilawal (2025).
 
