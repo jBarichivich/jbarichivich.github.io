@@ -9,5 +9,5 @@
 
 
 
+<img src="images/books_alerce_IMG_2452_lite.jpg?raw=true"/>
 
-books_alerce_IMG_2452_lite.jpg
